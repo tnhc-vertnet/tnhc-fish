@@ -1,0 +1,109 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 10
+	Country: Australia ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 27
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-12 ; Times: 8
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-18 ; Times: 1
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-21 ; Times: 1
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 3
+	Date: 2015-05-26 ; Times: 16
+	Date: 2015-05-27 ; Times: 1
+	Date: 2015-05-28 ; Times: 9
+	Date: 2015-05-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "11092" ; Times: 1
+	Query: "10270" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "county:"Hill" stateprovince:"Texas"" ; Times: 1
+	Query: "axis" ; Times: 3
+	Query: "(caudal)" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "gregg county texas" ; Times: 1
+	Query: "3996" ; Times: 1
+	Query: "graptemys stateprovince:"Texas"" ; Times: 2
+	Query: "TNHC 53890" ; Times: 2
+	Query: "TNHC 53891" ; Times: 3
+	Query: "catalognumber:56752 institutioncode:tnhc" ; Times: 2
+	Query: "49339" ; Times: 3
+	Query: "narcine brasiliensis" ; Times: 3
+	Query: "B431" ; Times: 1
+	Query: "catalognumber:56744 institutioncode:tnhc" ; Times: 1
+	Query: "Graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "erotelis armiger" ; Times: 8
+	Query: "catalognumber:53893 institutioncode:tnhc" ; Times: 2
+	Query: "54847" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "catalognumber:53891 institutioncode:tnhc" ; Times: 2
+	Query: "sirena station" ; Times: 1
+	Query: ""fasciata" stateprovince:"Texas"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 976 download events in this period)
+Total number of records downloaded: 2615 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2565
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 1
+	Date: 2015-05-19 ; Times: 1
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-25 ; Times: 1
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "graptemys stateprovince:"Texas"" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Etheostoma caeruleum" ; Times: 1
+	Query: "distance(location,geopoint(27.690014477975144,97.8662109375))<53553.776866128705" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 303
+Total number of records retrieved from searches: 7385
+Number of download events that retrieved data from the resource: 17
+Total number of records downloaded: 3488
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 315
+Total number of records retrieved from searches: 7448
+Number of download events that retrieved data from the resource: 51
+Total number of records downloaded: 19186
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
