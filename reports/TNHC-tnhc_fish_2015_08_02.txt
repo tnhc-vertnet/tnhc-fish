@@ -1,0 +1,158 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 1076
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: Russia ; Times: 7
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 59
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 3
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-07 ; Times: 3
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-11 ; Times: 1
+	Date: 2015-07-13 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 11
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-17 ; Times: 20
+	Date: 2015-07-18 ; Times: 2
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-23 ; Times: 5
+	Date: 2015-07-24 ; Times: 2
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 5
+	Date: 2015-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "estado de mexico" ; Times: 2
+	Query: "catalognumber:500" ; Times: 1
+	Query: "scartella" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "sh.1202" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "Mexico specificepithet:Olivaris genus:pylodictis" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "51472" ; Times: 1
+	Query: "alectis ciliaris gulf" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "catalognumber:33149 institutioncode:TNHC" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "specificepithet:Olivaris genus:pylodictis" ; Times: 1
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "specificepithet:Olivaris" ; Times: 2
+	Query: "specificepithet:lutrensis genus:Cyprinella" ; Times: 3
+	Query: "33125" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "Poecilia" ; Times: 4
+	Query: "26305" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "stateprovince:"Oklahoma" specificepithet:camura genus:Cyprinella" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "TNHC tissue:1" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "42291" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "county:"Bell" stateprovince:"Texas"" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "1436" ; Times: 1
+	Query: "fort bend county texas" ; Times: 1
+	Query: "county:"Bell" stateprovince:"Texas" year >= 1888 year <= 2015" ; Times: 1
+	Query: "astyanax" ; Times: 1
+	Query: "2464" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "seriola rivoliana gulf" ; Times: 1
+	Query: "laevigatus" ; Times: 1
+	Query: "paraclinus altivelis" ; Times: 1
+	Query: "paraclinus mexicanus" ; Times: 1
+	Query: "simus" ; Times: 1
+	Query: "8767" ; Times: 1
+	Query: "lepisosteus" ; Times: 1
+	Query: "5851" ; Times: 1
+	Query: "TNHC 38730" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "stateprovince:"texas" specificepithet:bairdi" ; Times: 1
+	Query: "alectis gulf" ; Times: 1
+	Query: "50293" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1084 download events in this period)
+Total number of records downloaded: 1451 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 932
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-06 ; Times: 1
+	Date: 2015-07-09 ; Times: 3
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-16 ; Times: 1
+	Date: 2015-07-22 ; Times: 2
+	Date: 2015-07-30 ; Times: 1
+	Date: 2015-07-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "iguana iguana" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "Graptemys" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 457
+Total number of records retrieved from searches: 9585
+Number of download events that retrieved data from the resource: 36
+Total number of records downloaded: 6910
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 469
+Total number of records retrieved from searches: 9648
+Number of download events that retrieved data from the resource: 70
+Total number of records downloaded: 22608
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
