@@ -1,0 +1,93 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 291
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 2
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-01 ; Times: 1
+	Date: 2015-10-13 ; Times: 2
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-08 ; Times: 2
+	Date: 2015-10-19 ; Times: 2
+	Date: 2015-10-31 ; Times: 1
+	Date: 2015-10-27 ; Times: 2
+	Date: 2015-10-06 ; Times: 1
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-30 ; Times: 2
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-26 ; Times: 1
+	Date: 2015-10-23 ; Times: 2
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "32700" ; Times: 1
+	Query: "10164" ; Times: 1
+	Query: "Black Gap county:&#34;Brewster&#34;" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "21258" ; Times: 1
+	Query: "Pimephales promelas" ; Times: 1
+	Query: "catalognumber:50000" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 2
+	Query: "catalognumber:27542" ; Times: 1
+	Query: "Herichthys minckleyi" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "TNHC 21416" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "catalognumber:29329" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "axis axis" ; Times: 1
+	Query: "catalognumber:30246" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "fluid preservation" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "gambusia affinis" ; Times: 1
+	Query: "26998" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "type:specimen catalognumber:29329" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 823 download events in this period)
+Total number of records downloaded: 149
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-30 ; Times: 3
+	Date: 2015-10-05 ; Times: 1
+	Date: 2015-10-09 ; Times: 1
+	Date: 2015-10-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aeneus" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "Etheostoma stigmaeum Alabama" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "county:&#34;Bandera&#34; mappable:1" ; Times: 1
+
+
+End of report.
