@@ -1,0 +1,105 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 137
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: Mexico ; Times: 6
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 31
+	Country: Malaysia ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-25 ; Times: 2
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-06 ; Times: 4
+	Date: 2015-09-05 ; Times: 3
+	Date: 2015-09-03 ; Times: 5
+	Date: 2015-09-02 ; Times: 3
+	Date: 2015-09-01 ; Times: 16
+	Date: 2015-09-17 ; Times: 1
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lost lake" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "ambloplites rupestris" ; Times: 3
+	Query: "&#34;B***&#34; &#34;americanus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "TNHC 31446" ; Times: 2
+	Query: "Amblyrhynchus" ; Times: 2
+	Query: "Percina maculata" ; Times: 1
+	Query: "TNHC 31461" ; Times: 2
+	Query: "TNHC 31468" ; Times: 3
+	Query: "geminatus" ; Times: 1
+	Query: "catalognumber:35887 institutioncode:tnhc" ; Times: 2
+	Query: "bryx" ; Times: 1
+	Query: "panther mappable:1" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "simus" ; Times: 4
+	Query: "21878" ; Times: 2
+	Query: "TNHC 31450" ; Times: 2
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "TNHC 31455" ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "plants" ; Times: 1
+	Query: "panaque" ; Times: 1
+	Query: "hystrix fluid" ; Times: 2
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "christobal" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1045 download events in this period)
+Total number of records downloaded: 3624
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-10 ; Times: 1
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "tigrinum" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "genus:aequidens" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
