@@ -1,0 +1,104 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 878
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Panama ; Times: 2
+	Country: Germany ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-06 ; Times: 9
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-08 ; Times: 1
+	Date: 2015-11-09 ; Times: 3
+	Date: 2015-11-28 ; Times: 1
+	Date: 2015-11-17 ; Times: 3
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-25 ; Times: 5
+	Date: 2015-11-24 ; Times: 5
+	Date: 2015-11-03 ; Times: 1
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-12 ; Times: 2
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "22626" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "30141" ; Times: 1
+	Query: "percina maculata" ; Times: 1
+	Query: "specificepithet:grandis genus:Fundulus tissue:1" ; Times: 1
+	Query: "28850" ; Times: 1
+	Query: "385 county:&#34;Pecos&#34;" ; Times: 1
+	Query: "(Cheek) institutioncode:TNHC" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "distance(location,geopoint(30.116349355010538,-103.58399391174316))&lt;2017.2688509059976" ; Times: 1
+	Query: "catalognumber:4772 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "TNHC" ; Times: 1
+	Query: "8934" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "TNHC 24247" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "fundulus grandis" ; Times: 4
+	Query: "33462" ; Times: 1
+	Query: "cyprinus carpio" ; Times: 2
+	Query: "28860" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "TNHC 23940" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "falciformis" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 3
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "Draw county:&#34;Val vERDE&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.113231047033114,-103.58656883239746))&lt;2017.2688509059976" ; Times: 1
+	Query: "33588" ; Times: 1
+	Query: "etheostoma stigmaeum arkansas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 751 download events in this period)
+Total number of records downloaded: 882
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mankins" ; Times: 1
+	Query: "spring salamander" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "bufo marinus" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
