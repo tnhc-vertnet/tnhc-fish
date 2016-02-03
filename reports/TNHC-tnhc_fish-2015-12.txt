@@ -1,0 +1,83 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 224
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-04 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-15 ; Times: 6
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-10 ; Times: 4
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-18 ; Times: 1
+	Date: 2015-12-19 ; Times: 2
+	Date: 2015-12-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "(Cheek) institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "pristis pectinata" ; Times: 2
+	Query: "seguin texas" ; Times: 1
+	Query: "family:Doradidae country:&#34;United States&#34;" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 2
+	Query: "family:loricariidae" ; Times: 1
+	Query: "TNHC 56517" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "genus:Menidia tissue:1" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "hemiramphus saltator" ; Times: 1
+	Query: "texas a&amp;m" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "Ammocrypta clara" ; Times: 4
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "Notropis atherinoides" ; Times: 1
+	Query: "genus:Menidia year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "erotelis armiger" ; Times: 1
+	Query: "morgan county heterodon" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 889 download events in this period)
+Total number of records downloaded: 7568
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-02 ; Times: 2
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "caribou continent:North America" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "family:Doradidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Anguillidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+
+
+End of report.
