@@ -1,0 +1,145 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 998
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 62
+	Country: Sweden ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 17
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-30 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-11 ; Times: 7
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-14 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "33490" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "tnhc 3283" ; Times: 1
+	Query: "catalognumber:38803 institutioncode:TNHC" ; Times: 2
+	Query: "Percina sciera type:specimen" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "Gobiomorus dormitor" ; Times: 3
+	Query: "tnhc 7955" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Cyprinella venusta" ; Times: 2
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 2
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-105.027516))&lt;15000" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "Syngnathidae tissue:1" ; Times: 3
+	Query: "Pianka institutioncode:TNHC" ; Times: 1
+	Query: "family:Cichlidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Loricariidae United States" ; Times: 2
+	Query: "anomalum data" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "family:Belonidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "genus:Etheostoma county:&#34;Hillsborough&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "family:Eleotridae country:&#34;United States&#34;" ; Times: 1
+	Query: "alazan creek" ; Times: 1
+	Query: "Iguana iguana institutioncode:TNHC" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "family:Mastacembelidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "Astyanax mexicanus Texas" ; Times: 1
+	Query: "family:Syngnathidae country:&#34;United States&#34;" ; Times: 1
+	Query: "orca year &gt;= 1940 year &lt;= 1970" ; Times: 1
+	Query: "county:&#34;Williamson&#34;" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "family:Cyprinodontidae country:&#34;United States&#34;" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "2185 stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "family:Hiodontidae" ; Times: 1
+	Query: "Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "Carpiodes carpio" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "woodlawn bexar" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 507 download events in this period)
+Total number of records downloaded: 29896
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-30 ; Times: 2
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 16
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-05 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cottidae country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 2
+	Query: "family:Catostomidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Gobiidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Mugilidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Clupeidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:&#34;United States&#34;" ; Times: 1
+	Query: "Clariidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Astyanax mexicanus Texas type:specimen year &gt;= 2000 year &lt;= 2016" ; Times: 2
+	Query: "family:Esocidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Callichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Poeciliidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Moronidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Percidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Amblyopsidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Pleuronectidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:&#34;United States&#34;" ; Times: 1
+	Query: "Pianka institutioncode:TNHC" ; Times: 1
+	Query: "family:Dasyatidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Cyprinidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Synbranchidae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:&#34;United States&#34;" ; Times: 1
+	Query: "family:Hiodontidae country:&#34;United States&#34;" ; Times: 1
+
+
+End of report.
