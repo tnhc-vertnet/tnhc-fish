@@ -1,0 +1,163 @@
+Report for Institution Code TNHC, Resource Ichthyology
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 998
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: United States ; Times: 62
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 17
+	Date: 2016-01-04 ; Times: 1
+	Date: 2016-01-05 ; Times: 2
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-08 ; Times: 2
+	Date: 2016-01-11 ; Times: 7
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-14 ; Times: 6
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "33490" ; Times: 1
+	Query: "sailfish" ; Times: 1
+	Query: "tnhc 3283" ; Times: 1
+	Query: "catalognumber:38803 institutioncode:TNHC" ; Times: 2
+	Query: "Percina sciera type:specimen" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "tnhc 7955" ; Times: 1
+	Query: "42565" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 3
+	Query: "anomalum data" ; Times: 1
+	Query: "Clariidae country:"United States"" ; Times: 1
+	Query: "distance(location,geopoint(30.789036,-105.027516))<15000" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "Syngnathidae tissue:1" ; Times: 3
+	Query: "Pianka institutioncode:TNHC" ; Times: 1
+	Query: "family:Cichlidae country:"United States"" ; Times: 1
+	Query: "Loricariidae United States" ; Times: 2
+	Query: "family:Achiridae country:"United States"" ; Times: 2
+	Query: "family:Moronidae country:"United States"" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "family:Belonidae country:"United States"" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "genus:Etheostoma county:"Hillsborough" stateprovince:"Florida"" ; Times: 2
+	Query: "family:Dasyatidae" ; Times: 1
+	Query: "alazan creek" ; Times: 1
+	Query: "Iguana iguana institutioncode:TNHC" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "Cyprinella venusta" ; Times: 2
+	Query: "family:Mastacembelidae country:"United States"" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "21381" ; Times: 1
+	Query: "Astyanax mexicanus Texas" ; Times: 1
+	Query: "family:Syngnathidae country:"United States"" ; Times: 1
+	Query: "orca year >= 1940 year <= 1970" ; Times: 1
+	Query: "county:"Williamson"" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "family:Cyprinodontidae country:"United States"" ; Times: 1
+	Query: "velifera" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "2185 stateprovince:"Texas"" ; Times: 1
+	Query: "family:Hiodontidae" ; Times: 1
+	Query: "Callichthyidae country:"United States"" ; Times: 1
+	Query: "family:Eleotridae country:"United States"" ; Times: 1
+	Query: "Carpiodes carpio" ; Times: 1
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "family:Synbranchidae country:"United States"" ; Times: 1
+	Query: "woodlawn bexar" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 507 download events in this period)
+Total number of records downloaded: 29896 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 29114
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 16
+	Date: 2016-01-05 ; Times: 13
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-20 ; Times: 3
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:"United States"" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "family:Catostomidae country:"United States"" ; Times: 1
+	Query: "family:Gobiidae country:"United States"" ; Times: 1
+	Query: "family:Mugilidae country:"United States"" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "family:Achiridae country:"United States"" ; Times: 1
+	Query: "Clariidae country:"United States"" ; Times: 1
+	Query: "Astyanax mexicanus Texas type:specimen year >= 2000 year <= 2016" ; Times: 2
+	Query: "family:Moronidae country:"United States"" ; Times: 1
+	Query: "family:Callichthyidae country:"United States"" ; Times: 1
+	Query: "family:Engraulidae country:"United States"" ; Times: 1
+	Query: "family:Poeciliidae country:"United States"" ; Times: 1
+	Query: "family:Esocidae country:"United States"" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "family:Amblyopsidae country:"United States"" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:"United States"" ; Times: 1
+	Query: "family:Pleuronectidae country:"United States"" ; Times: 1
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 2
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:"United States"" ; Times: 1
+	Query: "Pianka institutioncode:TNHC" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "family:Synbranchidae country:"United States"" ; Times: 1
+	Query: "Etheostoma stigmaeum alabama" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:"United States"" ; Times: 1
+	Query: "family:Cyprinidae country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 39
+Total number of records downloaded: 29896
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 64
+Total number of records retrieved from searches: 998
+Number of download events that retrieved data from the resource: 39
+Total number of records downloaded: 29896
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
