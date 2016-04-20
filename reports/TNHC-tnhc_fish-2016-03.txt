@@ -1,0 +1,60 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 11
+Number of records retrieved in searches: 152
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-10 ; Times: 4
+	Date: 2016-03-08 ; Times: 2
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-01 ; Times: 2
+	Date: 2016-03-03 ; Times: 1
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "mankins" ; Times: 1
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "gregg" ; Times: 2
+	Query: "prairie dog" ; Times: 1
+	Query: "persons" ; Times: 1
+	Query: "11054" ; Times: 1
+	Query: "parachromis" ; Times: 1
+	Query: "29992" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 230 download events in this period)
+Total number of records downloaded: 12842
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 39
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-08 ; Times: 4
+	Date: 2016-03-09 ; Times: 11
+	Date: 2016-03-06 ; Times: 1
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-11 ; Times: 3
+	Date: 2016-03-10 ; Times: 6
+	Date: 2016-03-13 ; Times: 6
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "tissue" ; Times: 39
+
+
+End of report.
