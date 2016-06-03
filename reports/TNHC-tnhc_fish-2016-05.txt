@@ -1,0 +1,90 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 43
+Number of records retrieved in searches: 1372
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Mexico ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-06 ; Times: 4
+	Date: 2016-05-07 ; Times: 6
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-31 ; Times: 12
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-11 ; Times: 1
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-29 ; Times: 2
+	Date: 2016-05-23 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "57306" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "specificepithet:mazatlanus genus:Achirus" ; Times: 3
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 8
+	Query: "county:&#34;leon&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "1375 county:&#34;Montgomery&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "communis" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-106.397516))&lt;15000" ; Times: 1
+	Query: "cyprinodon" ; Times: 1
+	Query: "institutioncode:TNHC tissue:1" ; Times: 1
+	Query: "family:Profundulidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 1
+	Query: "Danta" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Ictalurus punctatus mappable:1 tissue:1" ; Times: 1
+	Query: "family:Eleotridae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "specificepithet:gilberti genus:Citharichthys" ; Times: 3
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 327 download events in this period)
+Total number of records downloaded: 447
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-31 ; Times: 6
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Clupeidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 5
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "family:Lepisosteidae class:Actinopterygii country:&#34;COSTA RICA&#34;" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "gasterosteus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+	Query: "family:Atherinopsidae class:Actinopterygii country:&#34;MEXICO&#34;" ; Times: 1
+
+
+End of report.
