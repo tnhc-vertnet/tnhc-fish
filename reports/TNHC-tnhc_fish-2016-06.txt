@@ -1,0 +1,179 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 523
+Number of records retrieved in searches: 17302
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Honduras ; Times: 11
+	Country: Mexico ; Times: 44
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: United States ; Times: 460
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 411
+	Date: 2016-06-24 ; Times: 1
+	Date: 2016-06-23 ; Times: 4
+	Date: 2016-06-08 ; Times: 6
+	Date: 2016-06-20 ; Times: 1
+	Date: 2016-06-05 ; Times: 3
+	Date: 2016-06-01 ; Times: 7
+	Date: 2016-06-07 ; Times: 27
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 10
+	Date: 2016-06-03 ; Times: 20
+	Date: 2016-06-02 ; Times: 15
+	Date: 2016-06-16 ; Times: 3
+	Date: 2016-06-10 ; Times: 2
+	Date: 2016-06-09 ; Times: 2
+	Date: 2016-06-14 ; Times: 4
+	Date: 2016-06-22 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "49731" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "institutioncode:tnhc 20909" ; Times: 4
+	Query: "specificepithet:zygaena genus:Sphyrna" ; Times: 1
+	Query: "26378" ; Times: 1
+	Query: "53562" ; Times: 1
+	Query: "TNHC 31446" ; Times: 2
+	Query: "34808" ; Times: 1
+	Query: "TNHC 31444" ; Times: 2
+	Query: "30753" ; Times: 1
+	Query: "POLYDACTYLUS OCTONEMUS" ; Times: 4
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "bubalus" ; Times: 1
+	Query: "35018" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "cuetzalan" ; Times: 5
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 6
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "38682" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "8516" ; Times: 1
+	Query: "49990" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 14
+	Query: "catalognumber:54126" ; Times: 1
+	Query: "specificepithet:caesius genus:Anisotremus" ; Times: 2
+	Query: "sturgeon" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "11139" ; Times: 4
+	Query: "specificepithet:breviceps genus:Larimus" ; Times: 1
+	Query: "Garza 1" ; Times: 1
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 2
+	Query: "Axis axis" ; Times: 1
+	Query: "56134" ; Times: 1
+	Query: "fundulus grandis" ; Times: 2
+	Query: "46494" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "54714" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 4
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "27097" ; Times: 1
+	Query: "35723" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 166
+	Query: "catalognumber:35344" ; Times: 2
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "53440" ; Times: 1
+	Query: "county:&#34;Terrell&#34;" ; Times: 1
+	Query: "specificepithet:parrai genus:Haemulon" ; Times: 2
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "catalognumber:7690" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 90
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 5
+	Query: "38590" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "specificepithet:labriformis genus:Epinephelus" ; Times: 1
+	Query: "39534" ; Times: 1
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "specificepithet:opercularis genus:Polydactylus" ; Times: 2
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "neoclinus blanchardi" ; Times: 1
+	Query: "catalognumber:45180 institutioncode:TNHC" ; Times: 2
+	Query: "Amia calva" ; Times: 2
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 3
+	Query: "29961" ; Times: 2
+	Query: "catalognumber:45180" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 22
+	Query: "lepisosteidae" ; Times: 18
+	Query: "amia calva" ; Times: 3
+	Query: "TNHC 31466" ; Times: 1
+	Query: "TNHC 31462" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "TNHC 31468" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 12
+	Query: "institutioncode:tnhc" ; Times: 1
+	Query: "fundulus grandis institutioncode:TNHC" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "ORCA" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 12
+	Query: "16754" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "29872" ; Times: 1
+	Query: "34959" ; Times: 2
+	Query: "9197" ; Times: 1
+	Query: "8555" ; Times: 1
+	Query: "TNHC 31450" ; Times: 1
+	Query: "TNHC 31452" ; Times: 1
+	Query: "45816" ; Times: 1
+	Query: "TNHC 31454" ; Times: 1
+	Query: "TNHC 31455" ; Times: 1
+	Query: "specificepithet:mokarran genus:Sphyrna" ; Times: 1
+	Query: "25087" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1052 download events in this period)
+Total number of records downloaded: 717
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-22 ; Times: 1
+	Date: 2016-06-16 ; Times: 1
+	Date: 2016-06-12 ; Times: 2
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 2
+	Date: 2016-06-01 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "rhinichthys osculus" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "Iguana iguana AND (NOT California NOT Fiji NOT Florida NOT Arizona NOT Nevada NOT Sinaloa )" ; Times: 1
+	Query: "bufo bufo" ; Times: 1
+	Query: "PRISTIS PRISTIS" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Graptemys" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+	Query: "fundulus grandis institutioncode:TNHC" ; Times: 1
+	Query: "iguana" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
