@@ -1,0 +1,277 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 549
+Number of records retrieved in searches: 31424
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 533
+	Country: Australia ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 3
+	Date: 2016-08-11 ; Times: 1
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-30 ; Times: 6
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 8
+	Date: 2016-08-16 ; Times: 126
+	Date: 2016-08-17 ; Times: 2
+	Date: 2016-08-25 ; Times: 3
+	Date: 2016-08-19 ; Times: 53
+	Date: 2016-08-26 ; Times: 55
+	Date: 2016-08-21 ; Times: 7
+	Date: 2016-08-20 ; Times: 215
+	Date: 2016-08-09 ; Times: 1
+	Date: 2016-08-22 ; Times: 8
+	Date: 2016-08-23 ; Times: 15
+	Date: 2016-08-24 ; Times: 27
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-28 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rhomboides genus:Lagodon" ; Times: 4
+	Query: "scientificname:Pomoxis nigromaculatus country:United States mappable:1" ; Times: 3
+	Query: "34126" ; Times: 1
+	Query: "TNHC 51013" ; Times: 2
+	Query: "specificepithet:furcifer genus:Paranthias" ; Times: 1
+	Query: "specificepithet:bonasus genus:Rhinoptera" ; Times: 2
+	Query: "scientificname:Ambloplites constellatus country:United States mappable:1" ; Times: 1
+	Query: "trachinocephalus" ; Times: 1
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 4
+	Query: "San Benito Island" ; Times: 1
+	Query: "specificepithet:zonata genus:Seriola" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "90-171" ; Times: 2
+	Query: "Bin" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 2
+	Query: "scientificname:Lepomis microlophus country:United States mappable:1" ; Times: 8
+	Query: "scientificname:Dorosoma petenense country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "54750" ; Times: 1
+	Query: "TNHC 52768" ; Times: 4
+	Query: "specificepithet:plumieri genus:Haemulon" ; Times: 2
+	Query: "TNHC 52767" ; Times: 2
+	Query: "scientificname:Lepomis punctatus country:United States mappable:1" ; Times: 3
+	Query: "TNHC 51005" ; Times: 2
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 3
+	Query: "scientificname:Ameiurus melas country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Pomoxis annularis country:United States mappable:1" ; Times: 10
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 10
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 1
+	Query: "scientificname:Ambloplites ariommus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:militaris genus:Bellator" ; Times: 1
+	Query: "scientificname:Micropterus salmoides country:United States mappable:1" ; Times: 9
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 5
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "scientificname:Lepomis humilis country:United States mappable:1" ; Times: 6
+	Query: "scientificname:Micropterus coosae country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "specificepithet:crumenophthalmus genus:Selar" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 7
+	Query: "specificepithet:erectus genus:Hippocampus" ; Times: 2
+	Query: "brune" ; Times: 1
+	Query: "8974" ; Times: 1
+	Query: "orca" ; Times: 1
+	Query: "scientificname:Lepomis auritus country:United States mappable:1" ; Times: 7
+	Query: "specificepithet:saponaceus genus:Rypticus" ; Times: 1
+	Query: "Labrisomus xanti" ; Times: 6
+	Query: "specificepithet:usta genus:Nicholsina" ; Times: 1
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 4
+	Query: "scientificname:Micropterus dolomieu country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:pectinatus genus:Centropomus" ; Times: 1
+	Query: "specificepithet:caesius genus:Anisotremus" ; Times: 1
+	Query: "specificepithet:maximus genus:Lachnolaimus" ; Times: 2
+	Query: "scientificname:Dorosoma cepedianum country:United States mappable:1" ; Times: 6
+	Query: "scientificname:Lepomis gibbosus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Amia calva country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Ambloplites rupestris country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:acronotus genus:Carcharhinus" ; Times: 1
+	Query: "scientificname:Ictalurus punctatus country:United States mappable:1" ; Times: 9
+	Query: "specificepithet:bipinnulata genus:Elagatis" ; Times: 1
+	Query: "genus:Pteronotropis" ; Times: 1
+	Query: "scientificname:Micropterus punctulatus country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Lota lota country:United States mappable:1" ; Times: 9
+	Query: "specificepithet:breviceps genus:Larimus" ; Times: 1
+	Query: "TNHC 51086" ; Times: 4
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 2
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 3
+	Query: "specificepithet:monticola genus:Agonostomus" ; Times: 1
+	Query: "specificepithet:dispilus genus:Halichoeres" ; Times: 1
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 10
+	Query: "alcatraz" ; Times: 1
+	Query: "specificepithet:alletteratus genus:Euthynnus" ; Times: 1
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 2
+	Query: "Ut" ; Times: 1
+	Query: "specificepithet:cyanops genus:Caulolatilus" ; Times: 1
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 3
+	Query: "CArolinae" ; Times: 1
+	Query: "specificepithet:hystrix genus:Diodon" ; Times: 1
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:congestum genus:Moxostoma" ; Times: 1
+	Query: "TNHC 50919" ; Times: 2
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 3
+	Query: "specificepithet:apodus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "hippocampus gulf" ; Times: 1
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "TNHC 56648" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 2
+	Query: "tom r. johnson" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 3
+	Query: "scientificname:Perca flavescens country:United States mappable:1" ; Times: 2
+	Query: "21820" ; Times: 1
+	Query: "specificepithet:caurinus genus:Sebastes" ; Times: 1
+	Query: "TNHC 51057" ; Times: 3
+	Query: "specificepithet:lewini genus:Sphyrna" ; Times: 2
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "specificepithet:flavolineatum genus:Haemulon" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 47
+	Query: "specificepithet:nothus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 3
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "specificepithet:steindachneri genus:Ophioblennius" ; Times: 1
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 6
+	Query: "specificepithet:parrai genus:Haemulon" ; Times: 1
+	Query: "Poecilia tissue:1" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 1
+	Query: "specificepithet:hians genus:Ablennes" ; Times: 2
+	Query: "specificepithet:ronchus genus:Bairdiella" ; Times: 1
+	Query: "scientificname:Ameiurus catus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:porosus genus:Carcharhinus" ; Times: 1
+	Query: "unam" ; Times: 1
+	Query: "notropis jemezanus" ; Times: 1
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 3
+	Query: "scientificname:Ictalurus furcatus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 12
+	Query: "scientificname:Morone saxatilis country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:affinis genus:Syngnathus" ; Times: 1
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:maculatus genus:Gobiomorus" ; Times: 1
+	Query: "specificepithet:falciformis genus:Carcharhinus" ; Times: 2
+	Query: "scientificname:Lepomis marginatus country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "specificepithet:rufus genus:Bodianus" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus" ; Times: 1
+	Query: "scientificname:Ameiurus natalis country:United States mappable:1" ; Times: 10
+	Query: "specificepithet:hippurus genus:Coryphaena" ; Times: 1
+	Query: "specificepithet:bernardini genus:Catostomus" ; Times: 1
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "specificepithet:crysos genus:Caranx" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 5
+	Query: "specificepithet:narinari genus:Aetobatus" ; Times: 1
+	Query: "scientificname:Archoplites interruptus country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Lepomis miniatus country:United States mappable:1" ; Times: 4
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "tom johnson" ; Times: 1
+	Query: "specificepithet:acus genus:Tylosurus" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "scientificname:Aphredoderus sayanus country:United States mappable:1" ; Times: 6
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 3
+	Query: "San Martin Island" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 2
+	Query: "notropis stramineus" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 4
+	Query: "country:&#34;Mexico&#34; catalognumber:1726" ; Times: 1
+	Query: "Pteronotropis" ; Times: 2
+	Query: "TNHC 54536" ; Times: 2
+	Query: "TNHC 51174" ; Times: 2
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "TNHC 52769" ; Times: 4
+	Query: "specificepithet:latifrons genus:Dormitator" ; Times: 1
+	Query: "specificepithet:ruber genus:Caranx" ; Times: 2
+	Query: "14878" ; Times: 1
+	Query: "San Nicolas Island AND 1932" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:Hemiramphus" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 13
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:argenteus genus:Eucinostomus" ; Times: 2
+	Query: "specificepithet:analis genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:guttatus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:norrisi genus:Mustelus" ; Times: 1
+	Query: "Lebiasina" ; Times: 1
+	Query: "specificepithet:maculatus genus:Dormitator" ; Times: 1
+	Query: "catalognumber:30506 institutioncode:TNHC" ; Times: 1
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 10
+	Query: "scientificname:Morone chrysops country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Lepomis megalotis country:United States mappable:1" ; Times: 16
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 3
+	Query: "specificepithet:salmoides genus:Micropterus" ; Times: 3
+	Query: "TP" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 1
+	Query: "specificepithet:gracilis genus:Eucinostomus" ; Times: 1
+	Query: "scientificname:Lepomis gulosus country:United States mappable:1" ; Times: 9
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 2
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 3
+	Query: "52883" ; Times: 1
+	Query: "scientificname:Enneacanthus obesus country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 2
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 6
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "Pteronotropis hubbsi" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Diapterus" ; Times: 1
+	Query: "specificepithet:troschelii genus:Abudefduf" ; Times: 1
+	Query: "scientificname:Morone mississippiensis country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "specificepithet:curema genus:Mugil" ; Times: 2
+	Query: "specificepithet:secunda genus:Uraspis" ; Times: 1
+	Query: "specificepithet:chirurgus genus:Acanthurus" ; Times: 2
+	Query: "specificepithet:nobilis genus:Conodon" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "scientificname:Lepomis symmetricus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:canis genus:Mustelus" ; Times: 2
+	Query: "scientificname:Centrarchus macropterus country:United States mappable:1" ; Times: 4
+	Query: "scientificname:Alosa chrysochloris country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Micropterus treculii country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:colorado genus:Lutjanus" ; Times: 1
+	Query: "TNHC 52770" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 924 download events in this period)
+Total number of records downloaded: 2682
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Austria ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-18 ; Times: 1
+	Date: 2016-08-22 ; Times: 1
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "invertebrate" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "bufo" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+
+
+End of report.
