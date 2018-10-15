@@ -1,0 +1,252 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 198
+Number of records retrieved in searches: 3952
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 84
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 40
+	Country: United States ; Times: 69
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 4
+	Date: 2017-12-15 ; Times: 3
+	Date: 2017-12-12 ; Times: 8
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-11 ; Times: 114
+	Date: 2017-12-18 ; Times: 2
+	Date: 2017-12-29 ; Times: 5
+	Date: 2017-12-28 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 6
+	Date: 2017-12-23 ; Times: 9
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-21 ; Times: 2
+	Date: 2017-12-20 ; Times: 15
+	Date: 2017-12-05 ; Times: 10
+	Date: 2017-12-04 ; Times: 4
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-06 ; Times: 4
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-03 ; Times: 2
+	Date: 2017-12-08 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Xiphophorus variatus&#34;" ; Times: 2
+	Query: "Sardinella aurita mappable:1" ; Times: 1
+	Query: "Cichlasoma salvini" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "Phallichthys fairweatheri" ; Times: 1
+	Query: "Abudefduf troschelii mappable:1" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 1
+	Query: "Harengula jaguana" ; Times: 1
+	Query: "Pteroplatytrygon violacea mappable:1" ; Times: 1
+	Query: "Nexilarius taurus" ; Times: 1
+	Query: "Seriola dumerili mappable:1" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "Cyttopsis rosea mappable:1" ; Times: 1
+	Query: "Ctenogobius claytonii" ; Times: 1
+	Query: "Centropomus parallelus" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 1
+	Query: "Cruriraja rugosa" ; Times: 3
+	Query: "Poecilia velifera" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Abudefduf analogus" ; Times: 1
+	Query: "Conodon nobilis" ; Times: 1
+	Query: "Strongylura hubbsi" ; Times: 1
+	Query: "catalognumber:47641" ; Times: 2
+	Query: "Diapterus auratus" ; Times: 1
+	Query: "Cathorops melanopus" ; Times: 1
+	Query: "Eucinostomus gula" ; Times: 1
+	Query: "Rhinobatos" ; Times: 2
+	Query: "Nexilarius taurus mappable:1" ; Times: 1
+	Query: "Citharichthys spilopterus" ; Times: 1
+	Query: "Chaetodipterus faber" ; Times: 1
+	Query: "Profundulus punctatus" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "h 8289" ; Times: 1
+	Query: "Megalops atlanticus" ; Times: 1
+	Query: "Chromis insolata mappable:1" ; Times: 1
+	Query: "Brycon guatemalensis" ; Times: 1
+	Query: "Gambusia sexradiata" ; Times: 1
+	Query: "Sanger" ; Times: 1
+	Query: "Eleotris amblyopsis" ; Times: 1
+	Query: "Anchoa parva" ; Times: 1
+	Query: "Atractosteus tropicus" ; Times: 1
+	Query: "dasyatis" ; Times: 1
+	Query: "Eugerres plumieri" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "catalognumber:30411" ; Times: 1
+	Query: "catalognumber:30410" ; Times: 1
+	Query: "Eugerres mexicanus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "&#34;Serranochromis robustus&#34;" ; Times: 1
+	Query: "Abudefduf saxatilis mappable:1" ; Times: 2
+	Query: "Evorthodus lyricus" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Gymnocorymbus thayeri" ; Times: 1
+	Query: "Hyphessobrycon compressus" ; Times: 1
+	Query: "pine martin" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 1
+	Query: "Xiphophorus maculatus" ; Times: 1
+	Query: "catalognumber:30409" ; Times: 1
+	Query: "Abudefduf troschelii" ; Times: 1
+	Query: "Hemisorubim platyrhynchos" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Schilbe mystus" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "22704" ; Times: 1
+	Query: "Mullus auratus" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 3
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "CM 22965" ; Times: 1
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "racoon" ; Times: 2
+	Query: "Dormitator maculatus" ; Times: 1
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "Abudefduf taurus mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus" ; Times: 1
+	Query: "grunniens" ; Times: 1
+	Query: "county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "17301" ; Times: 1
+	Query: "22094" ; Times: 1
+	Query: "Lacantunia enigmatica" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 1
+	Query: "Mulloidichthys martinicus" ; Times: 1
+	Query: "Gambusia yucatana" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Myrophis punctatus" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "13875" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 2
+	Query: "Abudefduf saxatilis" ; Times: 3
+	Query: "Dorosoma anale" ; Times: 1
+	Query: "genus:rhamdia stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "44483" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "Pterygoplichthys disjunctivus" ; Times: 1
+	Query: "Strongylura marina" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "34420" ; Times: 1
+	Query: "19598" ; Times: 1
+	Query: "Diaphus rafinesquii mappable:1" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Strongylura notata" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "41234" ; Times: 1
+	Query: "Phaeoptyx pigmentaria mappable:1" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Eucinostomus melanopterus" ; Times: 1
+	Query: "specificepithet:hyostoma genus:Macrhybopsis month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 1
+	Query: "Heterandria bimaculata" ; Times: 1
+	Query: "Diapterus rhombeus" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "44494" ; Times: 1
+	Query: "Abudefduf taurus" ; Times: 1
+	Query: "catalognumber:17194" ; Times: 1
+	Query: "Upeneus martinicus" ; Times: 1
+	Query: "Mugil curema" ; Times: 1
+	Query: "Rhinobatos lentiginosus" ; Times: 3
+	Query: "Gobionellus oceanicus" ; Times: 1
+	Query: "Dasyatis americana" ; Times: 1
+	Query: "Hyporhamphus mexicanus" ; Times: 1
+	Query: "Elops saurus" ; Times: 1
+	Query: "Parachromis friedrichsthalii" ; Times: 1
+	Query: "umbra limi" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "Brevoortia gunteri" ; Times: 1
+	Query: "Etropus crossotus" ; Times: 1
+	Query: "locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:39249" ; Times: 2
+	Query: "Cathorops aguadulce" ; Times: 1
+	Query: "Astyanax aeneus" ; Times: 1
+	Query: "Poecilia mexicana" ; Times: 1
+	Query: "16622" ; Times: 1
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "Xiphophorus hellerii" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 1
+	Query: "Poecilia sphenops" ; Times: 1
+	Query: "Thorichthys helleri" ; Times: 1
+	Query: "Trinectes maculatus" ; Times: 1
+	Query: "Atherinella alvarezi" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 1
+	Query: "coregonus nasus" ; Times: 1
+	Query: "37061" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 2
+	Query: "Chromis insolata" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "Petenia splendida" ; Times: 1
+	Query: "32738" ; Times: 1
+	Query: "Upeneus parvus" ; Times: 1
+	Query: "catalognumber:9995" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "Xiphophorus variatus" ; Times: 2
+	Query: "Amphilophus robertsoni" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 6
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "Poeciliopsis fasciata" ; Times: 1
+	Query: "Bairdiella ronchus" ; Times: 1
+	Query: "29809" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 1
+	Query: "Abudefduf analogus mappable:1" ; Times: 1
+	Query: "Varela" ; Times: 1
+	Query: "Pagrus pagrus mappable:1" ; Times: 1
+	Query: "Carcharhinus leucas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 674 download events in this period)
+Total number of records downloaded: 1078
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Peru ; Times: 1
+	Country: France ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-29 ; Times: 1
+	Date: 2017-12-07 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 3
+	Date: 2017-12-06 ; Times: 3
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-11 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rhinobatos lentiginosus" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 3
+	Query: "locality:Isla Mujeres stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "(Microdesmidae OR Gobiidae OR Ptereleotridae OR Kraemeriidae OR Schindleriidae OR Xenisthmidae OR Odontobutidae OR Rhyacichthyidae OR Milyeringidae OR Eleotridae OR Thalasseleotrididae OR Trichonotidae OR Apogonidae OR Kurtidae) hastissue:1" ; Times: 1
+	Query: "nicaragua vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "potamotrygonidae" ; Times: 1
+
+
+End of report.
