@@ -1,0 +1,193 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 190
+Number of records retrieved in searches: 1384
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 15
+	Country: Brazil ; Times: 4
+	Country: Israel ; Times: 3
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 71
+	Country: Czechia ; Times: 1
+	Country: United States ; Times: 92
+	Country: Japan ; Times: 1
+	Country: Dominican Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-09 ; Times: 3
+	Date: 2018-02-08 ; Times: 7
+	Date: 2018-02-02 ; Times: 3
+	Date: 2018-02-01 ; Times: 5
+	Date: 2018-02-07 ; Times: 3
+	Date: 2018-02-06 ; Times: 8
+	Date: 2018-02-05 ; Times: 8
+	Date: 2018-02-04 ; Times: 1
+	Date: 2018-02-21 ; Times: 24
+	Date: 2018-02-20 ; Times: 25
+	Date: 2018-02-23 ; Times: 7
+	Date: 2018-02-22 ; Times: 29
+	Date: 2018-02-27 ; Times: 25
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-28 ; Times: 6
+	Date: 2018-02-14 ; Times: 2
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-17 ; Times: 3
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-13 ; Times: 6
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-19 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "10066" ; Times: 1
+	Query: "scientificname:&#34;notropis  buccula&#34;" ; Times: 1
+	Query: "Rivulidae" ; Times: 7
+	Query: "catalognumber:1639" ; Times: 1
+	Query: "specificepithet:annulatus genus:sphoeroides" ; Times: 1
+	Query: "county:&#34;Hill&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:Cyprinodontiformes hastissue:1" ; Times: 4
+	Query: "family:Cichlidae country:&#34;Belize&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "catalognumber:1322" ; Times: 1
+	Query: "amiiformes" ; Times: 1
+	Query: "35931" ; Times: 1
+	Query: "scientificname:&#34;barbus multilineatus&#34;" ; Times: 1
+	Query: "scientificname:&#34;dionda nigrotaeniata&#34;" ; Times: 1
+	Query: "scientificname:&#34;dionda serena&#34;" ; Times: 1
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "catalognumber:1508" ; Times: 1
+	Query: "rhinobatos lentiginosus" ; Times: 2
+	Query: "chesapeake" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 2
+	Query: "Pontinus" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "hydrolycus scomberoides" ; Times: 2
+	Query: "cro" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "specificepithet:lobatus genus:sphoeroides" ; Times: 1
+	Query: "fieldnumber:Z15137KW-6-24-8 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Astyanax fasciatus" ; Times: 1
+	Query: "specificepithet:leucas genus:Carcharhinus" ; Times: 2
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "scientificname:&#34;notropis potteri&#34;" ; Times: 1
+	Query: "13773" ; Times: 1
+	Query: "scientificname:&#34;dionda diaboli&#34;" ; Times: 1
+	Query: "belonesox belizanus" ; Times: 1
+	Query: "Narcine bancroftii" ; Times: 1
+	Query: "astronotus ocellatus" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 3
+	Query: "19848" ; Times: 1
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 5
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "B-1357" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 2
+	Query: "scientificname:&#34;notropis anogenus&#34;" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 2
+	Query: "scientificname:&#34;trogloglanis pattersoni&#34;" ; Times: 1
+	Query: "scientificname:&#34;dionda argentosa&#34;" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "hemichromis" ; Times: 2
+	Query: "Awaous tajasica mappable:1" ; Times: 1
+	Query: "catalognumber:447" ; Times: 1
+	Query: "pectinatus" ; Times: 1
+	Query: "scientificname:&#34;notropis oxyrhynchus&#34;" ; Times: 1
+	Query: "54553" ; Times: 1
+	Query: "specificepithet:bancroftii genus:Narcine" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 3
+	Query: "scientificname:&#34;satan eurystomus&#34;" ; Times: 1
+	Query: "scientificname:&#34;macrhybopsis australis&#34;" ; Times: 1
+	Query: "scientificname:&#34;notropis ammophilus&#34;" ; Times: 1
+	Query: "50129" ; Times: 1
+	Query: "Ginglymostoma cirratum" ; Times: 6
+	Query: "distance(location,geopoint(26.5346291285,-99.1206481295))&lt;2530" ; Times: 1
+	Query: "distance(location,geopoint(26.110795247,-98.2710711635))&lt;13014" ; Times: 2
+	Query: "scientificname:&#34;barbus afrohamiltoni&#34;" ; Times: 1
+	Query: "vntype:specimen country:&#34;United States&#34; (pan)" ; Times: 1
+	Query: "scientificname:&#34;apteronotus macrostomus&#34;" ; Times: 1
+	Query: "county:&#34;hays&#34; stateprovince:&#34;texas&#34; (anguilla rostrata)" ; Times: 1
+	Query: "Chesapeake Bay" ; Times: 5
+	Query: "&#34;Oreochromis mossambicus&#34;" ; Times: 1
+	Query: "scientificname:&#34;prionotus longispinosus&#34;" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "scientificname:&#34;cyprinella lepida&#34;" ; Times: 1
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "Sicydium altum mappable:1" ; Times: 1
+	Query: "specificepithet:erythrurum genus:Moxostoma stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Noturus stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "scientificname:&#34;barbus afrovernayi&#34;" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 21
+	Query: "specificepithet:cirratum genus:Ginglymostoma" ; Times: 2
+	Query: "Etrumeus teres" ; Times: 3
+	Query: "hystrix" ; Times: 1
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "scientificname:&#34;cyprinella proserpina&#34;" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "46181" ; Times: 1
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "Plagioscion squamosissimus" ; Times: 3
+	Query: "Rhizoprionodon terraenovae" ; Times: 18
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "specificepithet:crocodilus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Acanthurus coeruleus" ; Times: 1
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 1
+	Query: "metynnis" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "scientificname:&#34;starksia spinipenis&#34;" ; Times: 1
+	Query: "catalognumber:44332 institutioncode:TNHC" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 5
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1892 download events in this period)
+Total number of records downloaded: 464
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 2
+	Date: 2018-02-23 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-28 ; Times: 1
+	Date: 2018-02-18 ; Times: 2
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "family:Apteronotidae continent:South America mappable:1" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "michigan" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "stateprovince:&#34;arizona&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
