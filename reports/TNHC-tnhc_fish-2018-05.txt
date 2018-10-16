@@ -1,0 +1,178 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 183
+Number of records retrieved in searches: 3267
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Algeria ; Times: 1
+	Country: Mexico ; Times: 10
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 162
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 7
+	Date: 2018-05-20 ; Times: 1
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 15
+	Date: 2018-05-23 ; Times: 13
+	Date: 2018-05-24 ; Times: 7
+	Date: 2018-05-25 ; Times: 10
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-04 ; Times: 35
+	Date: 2018-05-05 ; Times: 8
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 6
+	Date: 2018-05-01 ; Times: 1
+	Date: 2018-05-08 ; Times: 11
+	Date: 2018-05-09 ; Times: 7
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 4
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 10
+	Date: 2018-05-11 ; Times: 9
+	Date: 2018-05-10 ; Times: 15
+	Date: 2018-05-19 ; Times: 2
+	Date: 2018-05-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "University of Texas at Arlington" ; Times: 1
+	Query: "specificepithet:pantostictus genus:Herichthys family:Cichlidae" ; Times: 2
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "specificepithet:bulleri genus:Paraneetroplus family:Cichlidae" ; Times: 1
+	Query: "11051" ; Times: 1
+	Query: "scientificname:(Salvelinus malma) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:14370 institutioncode:TNHC" ; Times: 3
+	Query: "specificepithet:bulleri genus:Paraneetroplus" ; Times: 1
+	Query: "specificepithet:callolepis family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "typhlichthys" ; Times: 1
+	Query: "genus:Paraneetroplus" ; Times: 1
+	Query: "specificepithet:bovinus genus:Cyprinodon" ; Times: 3
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "31227" ; Times: 2
+	Query: "specificepithet:callolepis genus:Thorichthys" ; Times: 3
+	Query: "scientificname:(Notropis amabilis) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:31221 institutioncode:TNHC" ; Times: 3
+	Query: "genus:Amphilophus" ; Times: 3
+	Query: "37184" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "catalognumber:1852" ; Times: 1
+	Query: "scientificname:(Noturus albater) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:carpintis genus:Herichthys" ; Times: 1
+	Query: "catalognumber:54754 institutioncode:TNHC" ; Times: 4
+	Query: "10048" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "stateprovince:&#34;San Luis Potosi&#34; year &gt;= 1969 year &lt;= 1970" ; Times: 2
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "genus:Hypsophrys" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "specificepithet:molango genus:Herichthys family:Cichlidae" ; Times: 1
+	Query: "labeo" ; Times: 1
+	Query: "catalognumber:2295 institutioncode:TNHC" ; Times: 2
+	Query: "class:Actinopterygii county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:6045 institutioncode:TNHC" ; Times: 4
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "county:&#34;Menard&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC" ; Times: 1
+	Query: "goldfish" ; Times: 1
+	Query: "specificepithet:minckleyi genus:Herichthys" ; Times: 2
+	Query: "specificepithet:tamasopoensis family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "40447" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "catalognumber:31345 institutioncode:TNHC" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:451 institutioncode:TNHC" ; Times: 3
+	Query: "class:Actinopterygii county:&#34;travis&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "AL 3054" ; Times: 1
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 1
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "specificepithet:macracanthus family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "specificepithet:pame genus:Herichthys family:Cichlidae" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "catalognumber:41075 institutioncode:TNHC" ; Times: 5
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "catalognumber:532 institutioncode:TNHC" ; Times: 1
+	Query: "genus:Herichthys" ; Times: 9
+	Query: "specificepithet:tamasopoensis genus:Herichthys family:Cichlidae" ; Times: 1
+	Query: "genus:Caquetaia" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "catalognumber:31193 institutioncode:TNHC" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "genus:Cichlasoma family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:59635 institutioncode:TNHC" ; Times: 3
+	Query: "class:Actinopterygii county:&#34;matagorda&#34; stateprovince:&#34;Texas&#34; country:&#34;United States&#34;" ; Times: 4
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "specificepithet:pantostictus family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:18615 institutioncode:TNHC" ; Times: 4
+	Query: "genus:Petenia" ; Times: 1
+	Query: "catalognumber:5432 institutioncode:TNHC" ; Times: 2
+	Query: "TNHC 14370" ; Times: 1
+	Query: "specificepithet:nematopus family:Cichlidae" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "catalognumber:5461 institutioncode:TNHC" ; Times: 3
+	Query: "fannin" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "specificepithet:bulleri family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "specificepithet:regani genus:Vieja" ; Times: 1
+	Query: "catalognumber:17393 institutioncode:TNHC" ; Times: 4
+	Query: "locality:clear creek county:&#34;coconino&#34;" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna country:&#34;Mexico&#34; continent:America" ; Times: 2
+	Query: "xiphophorus helleri" ; Times: 2
+	Query: "catalognumber:14371 institutioncode:TNHC" ; Times: 3
+	Query: "35076" ; Times: 1
+	Query: "scientificname:(Salvelinus fontinalis) country:United States mappable:1" ; Times: 1
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "genus:Parachromis" ; Times: 1
+	Query: "county:&#34;Willacy&#34;" ; Times: 1
+	Query: "genus:Neetroplus" ; Times: 1
+	Query: "genus:Vieja" ; Times: 1
+	Query: "specificepithet:minckleyi genus:Cichlasoma family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:51924 institutioncode:TNHC" ; Times: 4
+	Query: "39454" ; Times: 1
+	Query: "specificepithet:kraussii family:Cichlidae" ; Times: 1
+	Query: "Gobiesox adustus" ; Times: 3
+	Query: "TNHC 51206" ; Times: 3
+	Query: "50785" ; Times: 2
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "collections n. w. gulf of mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1178 download events in this period)
+Total number of records downloaded: 1123
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 3
+	Date: 2018-05-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+	Query: "Dysomma" ; Times: 1
+
+
+End of report.
