@@ -1,0 +1,186 @@
+Report for Institution Code TNHC, Resource tnhc_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 148
+Number of records retrieved in searches: 2589
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 123
+	Country: Germany ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 13
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-26 ; Times: 6
+	Date: 2018-09-27 ; Times: 1
+	Date: 2018-09-06 ; Times: 8
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 18
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 43
+	Date: 2018-09-12 ; Times: 14
+	Date: 2018-09-17 ; Times: 2
+	Date: 2018-09-16 ; Times: 10
+	Date: 2018-09-19 ; Times: 4
+	Date: 2018-09-18 ; Times: 1
+	Date: 2018-09-20 ; Times: 3
+	Date: 2018-09-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Cyprinodon variegatus) country:United States mappable:1" ; Times: 4
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 3
+	Query: "astyanax cave" ; Times: 1
+	Query: "hoplerythrinus" ; Times: 1
+	Query: "Double Mountain Fork" ; Times: 3
+	Query: "43401" ; Times: 1
+	Query: "TNHC 38252" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "TNHC 37121" ; Times: 1
+	Query: "scientificname:(Lucania parva) country:United States mappable:1" ; Times: 3
+	Query: "22579" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "Gymnothorax miliaris" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "TNHC 59904" ; Times: 1
+	Query: "TNHC 54922" ; Times: 1
+	Query: "TNHC 54921" ; Times: 1
+	Query: "brazos station" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "dasyatis" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "Fundulus heteroclitus" ; Times: 2
+	Query: "TNHC 58506" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "TNHC 37029" ; Times: 1
+	Query: "49597" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "county:&#34;Brown&#34; stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "lucania goodei" ; Times: 1
+	Query: "TNHC 31896" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "TNHC 38605" ; Times: 1
+	Query: "TNHC 48027" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;tamaulipas&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "TNHC 36506" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "43204" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 2
+	Query: "TNHC 1802-16" ; Times: 1
+	Query: "TNHC 37117" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "TNHC 36505" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "TNHC 38501" ; Times: 1
+	Query: "Hypsoblennius gentilis" ; Times: 1
+	Query: "TNHC 6242" ; Times: 1
+	Query: "TNHC 37362" ; Times: 1
+	Query: "TNHC 37363" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "TNHC 37169" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "TNHC 31913" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "vntype:specimen specificepithet:galeatus" ; Times: 1
+	Query: "Sardinella aurita" ; Times: 2
+	Query: "gambusia nobilis" ; Times: 2
+	Query: "TNHC 32009" ; Times: 1
+	Query: "genus:trichiurus hastissue:1" ; Times: 3
+	Query: "TNHC 36630" ; Times: 1
+	Query: "TNHC 36636" ; Times: 1
+	Query: "TNHC 37179" ; Times: 1
+	Query: "scientificname:(Poecilia latipinna) country:United States mappable:1" ; Times: 4
+	Query: "TNHC 60100" ; Times: 1
+	Query: "TNHC 60101" ; Times: 1
+	Query: "TNHC 60102" ; Times: 1
+	Query: "TNHC 37172" ; Times: 1
+	Query: "TNHC 37174" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34;" ; Times: 2
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "texas a&amp;m" ; Times: 1
+	Query: "TNHC 18188" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "salvelinus malma" ; Times: 1
+	Query: "oklahoma state university" ; Times: 1
+	Query: "TNHC 38724" ; Times: 1
+	Query: "TNHC 27617" ; Times: 1
+	Query: "county:&#34;mason&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "TNHC 40605" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Lepisosteus osseus) country:United States mappable:1" ; Times: 3
+	Query: "TNHC 28499" ; Times: 1
+	Query: "scientificname:(Moxostoma anisurum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 1
+	Query: "TNHC 48062" ; Times: 1
+	Query: "genus:astyanax country:&#34;mexico&#34;" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "TNHC 38498" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "prairie dog" ; Times: 2
+	Query: "astyanax san luis potosi" ; Times: 1
+	Query: "catalognumber:50286 institutioncode:TNHC" ; Times: 1
+	Query: "astyanax sotano" ; Times: 1
+	Query: "Hypsoblennius jenkinsi" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "sphoeroides nephelus" ; Times: 1
+	Query: "specificepithet:wigginsi" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 846 download events in this period)
+Total number of records downloaded: 859
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-17 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
