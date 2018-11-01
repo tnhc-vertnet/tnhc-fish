@@ -1,0 +1,224 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 177
+Number of records retrieved in searches: 1709
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Portugal ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: Venezuela ; Times: 20
+	Country: Mexico ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: France ; Times: 2
+	Country: United States ; Times: 128
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-05 ; Times: 5
+	Date: 2018-10-01 ; Times: 3
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-03 ; Times: 7
+	Date: 2018-10-04 ; Times: 12
+	Date: 2018-10-22 ; Times: 3
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-07 ; Times: 2
+	Date: 2018-10-26 ; Times: 4
+	Date: 2018-10-27 ; Times: 2
+	Date: 2018-10-24 ; Times: 7
+	Date: 2018-10-25 ; Times: 5
+	Date: 2018-10-29 ; Times: 3
+	Date: 2018-10-09 ; Times: 6
+	Date: 2018-10-18 ; Times: 7
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-12 ; Times: 2
+	Date: 2018-10-11 ; Times: 5
+	Date: 2018-10-10 ; Times: 16
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-16 ; Times: 5
+	Date: 2018-10-15 ; Times: 68
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 1
+	Query: "53793" ; Times: 1
+	Query: "Callionymus agassizi mappable:1" ; Times: 1
+	Query: "22838" ; Times: 1
+	Query: "Lactophrys tricornis" ; Times: 2
+	Query: "Oostethus lineatus" ; Times: 1
+	Query: "catalognumber:52970 institutioncode:TNHC" ; Times: 1
+	Query: "issues" ; Times: 1
+	Query: "Hippocampus punctulatus" ; Times: 3
+	Query: "Antennarius multiocellatus" ; Times: 1
+	Query: "Bryx dunckeri mappable:1" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311 60110" ; Times: 1
+	Query: "Syngnathus floridae mappable:1" ; Times: 1
+	Query: "TNHC 54116" ; Times: 1
+	Query: "Hippocampus hippocampus mappable:1" ; Times: 1
+	Query: "Hemichromis Florida" ; Times: 4
+	Query: "Aldama" ; Times: 1
+	Query: "Hippocampus zosterae mappable:1" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 3
+	Query: "Hippocampus regulus" ; Times: 1
+	Query: "Oostethus brachyurus mappable:1" ; Times: 3
+	Query: "Lactophrys tricornis mappable:1" ; Times: 2
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "Cosmocampus brachycephalus mappable:1" ; Times: 1
+	Query: "Syngnathus brachyurus" ; Times: 1
+	Query: "20614" ; Times: 2
+	Query: "specificepithet:macularius genus:cyprinodon stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Opisthonema hastissue:1" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311 60111" ; Times: 1
+	Query: "Acanthostracion quadricornis mappable:1" ; Times: 1
+	Query: "pristipomoides" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Gobiosoma bosc Chesapeake Bay" ; Times: 3
+	Query: "(Bergman)" ; Times: 1
+	Query: "Lactophrys trigonus" ; Times: 1
+	Query: "12394" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 2
+	Query: "vntype:specimen (apteronotus leptorhynchus)" ; Times: 1
+	Query: "Acanthostracion tricornis" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "county:&#34;Okeechobee&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Chaetodon ocellatus" ; Times: 1
+	Query: "Hippocampus punctulatus mappable:1" ; Times: 3
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311 60109" ; Times: 1
+	Query: "Syngnathus fuscus" ; Times: 1
+	Query: "Syngnathus fuscus mappable:1" ; Times: 1
+	Query: "Callionymus agassizi" ; Times: 1
+	Query: "Acanthostracion tricornis mappable:1" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 2
+	Query: "genus:Catostomus county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "Oostethus brachyurus brachyurus" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 2
+	Query: "tilapia" ; Times: 3
+	Query: "Hinds" ; Times: 1
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "recordedby:Flury" ; Times: 2
+	Query: "Microphis lineatus mappable:1" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "Carcharhinus isodon" ; Times: 1
+	Query: "Oostethus lineatus mappable:1" ; Times: 1
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "Hypleurochilus geminatus" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 3
+	Query: "53280" ; Times: 2
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "Syngnathus springeri mappable:1" ; Times: 1
+	Query: "Lactophrys quadricornis mappable:1" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "Bryx dunckeri" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "vntype:specimen county:&#34;Motley&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Hippocampus hudsonius" ; Times: 1
+	Query: "Syngnathus springeri" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 2
+	Query: "23926" ; Times: 1
+	Query: "vntype:specimen family:cichlidae institutioncode:TNHC" ; Times: 1
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "Syngnathus affinis" ; Times: 1
+	Query: "Microphis brachyurus lineatus mappable:1" ; Times: 1
+	Query: "genus:Catostomus locality:East Clear Creek county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "altavela" ; Times: 2
+	Query: "Syngnathus pelagicus" ; Times: 3
+	Query: "Hippocampus hudsonius mappable:1" ; Times: 1
+	Query: "Aequidens metae" ; Times: 3
+	Query: "Syngnathus affinis mappable:1" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "co 2932" ; Times: 1
+	Query: "(38429)" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "hypostomus plecostomoides" ; Times: 1
+	Query: "Ojinaga" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "Hippocampus erectus mappable:1" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Pseudophallus elcapitanensis" ; Times: 1
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "Oostethus brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "catalognumber:51984 institutioncode:TNHC" ; Times: 1
+	Query: "Pseudophallus mindii mappable:1" ; Times: 1
+	Query: "Microphis brachyurus lineatus" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "Cosmocampus brachycephalus" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "Oostethus brachyurus" ; Times: 3
+	Query: "17776" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Hippocampus regulus mappable:1" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Microphis brachyurus mappable:1" ; Times: 3
+	Query: "catalognumber:31177 institutioncode:TNHC" ; Times: 1
+	Query: "Narcine" ; Times: 1
+	Query: "Oostethus brachyurus lineatus mappable:1" ; Times: 1
+	Query: "Oostethus brachyurus lineatus" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "cojedes" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "(grunniens)" ; Times: 1
+	Query: "catalognumber:24380 institutioncode:TNHC" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1300 download events in this period)
+Total number of records downloaded: 901
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Belgium ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-01 ; Times: 1
+	Date: 2018-10-24 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:onitis genus:Tautoga" ; Times: 1
+	Query: "nerodia" ; Times: 1
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "cojedes" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aurea" ; Times: 1
+	Query: "vntype:specimen county:&#34;Eddy&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
