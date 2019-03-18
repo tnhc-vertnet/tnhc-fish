@@ -1,0 +1,271 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 405
+Number of records retrieved in searches: 4383
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 301
+	Country: United States ; Times: 72
+	Country: Germany ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Argentina ; Times: 4
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 2
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-11 ; Times: 3
+	Date: 2019-02-13 ; Times: 6
+	Date: 2019-02-12 ; Times: 7
+	Date: 2019-02-15 ; Times: 6
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-17 ; Times: 1
+	Date: 2019-02-19 ; Times: 2
+	Date: 2019-02-18 ; Times: 3
+	Date: 2019-02-24 ; Times: 6
+	Date: 2019-02-25 ; Times: 11
+	Date: 2019-02-26 ; Times: 13
+	Date: 2019-02-27 ; Times: 234
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-07 ; Times: 9
+	Date: 2019-02-04 ; Times: 2
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-08 ; Times: 3
+	Date: 2019-02-28 ; Times: 75
+	Date: 2019-02-02 ; Times: 4
+	Date: 2019-02-01 ; Times: 1
+	Date: 2019-02-06 ; Times: 3
+	Date: 2019-02-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:guttatus genus:Epinephelus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Satan eurystomus" ; Times: 1
+	Query: "Masturus lanceolatus" ; Times: 2
+	Query: "specificepithet:rubrofluviatilis genus:cyprinodon stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Holacanthus tricolor mappable:1" ; Times: 1
+	Query: "cyprinodon elegans" ; Times: 1
+	Query: "Anchoa filifera mappable:1" ; Times: 5
+	Query: "Haemulon carbonarium mappable:1" ; Times: 2
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 1
+	Query: "Malacoctenus aurolineatus mappable:1" ; Times: 2
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 5
+	Query: "Entomacrodus nigricans mappable:1" ; Times: 7
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "Priapichthys" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "palo alto texas" ; Times: 1
+	Query: "genus:lates" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Myrichthys ocellatus mappable:1" ; Times: 2
+	Query: "catalognumber:18501 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:canadum genus:Rachycentron stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "punctifer" ; Times: 1
+	Query: "Scartella cristata mappable:1" ; Times: 3
+	Query: "Calamus pennatula mappable:1" ; Times: 2
+	Query: "Strongylura timucu mappable:1" ; Times: 10
+	Query: "35018" ; Times: 1
+	Query: "Epinephelus guttatus mappable:1" ; Times: 1
+	Query: "30596" ; Times: 1
+	Query: "XXXXXXX mappable:1" ; Times: 5
+	Query: "Priapella" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Texas&#34; preparations:Tissue basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bathygobius soporator mappable:1" ; Times: 1
+	Query: "Parablennius marmoreus mappable:1" ; Times: 5
+	Query: "TNHC-38498" ; Times: 1
+	Query: "specificepithet:dumerili genus:Seriola stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Belonesox" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 1
+	Query: "Mugil trichodon mappable:1" ; Times: 3
+	Query: "Anchoa lyolepis mappable:1" ; Times: 6
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "22840" ; Times: 1
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 2
+	Query: "TNHC-40603" ; Times: 1
+	Query: "xiphophorus" ; Times: 1
+	Query: "Harengula clupeola mappable:1" ; Times: 11
+	Query: "specificepithet:flavolimbatus genus:Epinephelus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "58978" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 6
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 2
+	Query: "TNHC alligator" ; Times: 1
+	Query: "44998" ; Times: 1
+	Query: "pristobrycon" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "Halichoeres maculipinna mappable:1" ; Times: 1
+	Query: "Malacoctenus macropus mappable:1" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "Ablennes hians mappable:1" ; Times: 8
+	Query: "Lutjanus jocu mappable:1" ; Times: 1
+	Query: "12010" ; Times: 1
+	Query: "17499" ; Times: 1
+	Query: "Hypleurochilus aequipinnis mappable:1" ; Times: 1
+	Query: "class:actinopterygii county:&#34;Clay&#34; stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Harengula humeralis mappable:1" ; Times: 9
+	Query: "Cypselurus comatus mappable:1" ; Times: 3
+	Query: "specificepithet:aurorubens genus:Rhomboplites stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 3
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 3
+	Query: "32777" ; Times: 2
+	Query: "Anchoa parva mappable:1" ; Times: 2
+	Query: "Hypsophrys nicaraguensis" ; Times: 1
+	Query: "TNHC-36504" ; Times: 1
+	Query: "rhinobatos rhinobatos" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 18
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 4
+	Query: "Mycteroperca interstitialis mappable:1" ; Times: 1
+	Query: "Erotelis smaragdus mappable:1" ; Times: 5
+	Query: "San Martin AND 1905" ; Times: 1
+	Query: "catalognumber:58843 institutioncode:TNHC" ; Times: 1
+	Query: "Mycteroperca bonaci mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 4
+	Query: "Anisotremus virginicus mappable:1" ; Times: 2
+	Query: "seahorse" ; Times: 2
+	Query: "specificepithet:bonaci genus:Mycteroperca stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "Rhomboplites aurorubens" ; Times: 3
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "Prietella lundbergi" ; Times: 2
+	Query: "Chaetodipterus faber mappable:1" ; Times: 2
+	Query: "Ginsburgellus novemlineatus mappable:1" ; Times: 4
+	Query: "alligator institutioncode:TNHC" ; Times: 2
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "locality:brackettville county:&#34;kinney&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 7
+	Query: "Acyrtus rubiginosus mappable:1" ; Times: 5
+	Query: "specificepithet:microlepis genus:Mycteroperca stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "31887" ; Times: 2
+	Query: "Paranthias furcifer mappable:1" ; Times: 3
+	Query: "Trachinotus goodei mappable:1" ; Times: 5
+	Query: "San Martin AND 1905 NOT Peru" ; Times: 2
+	Query: "Centropomus pectinatus mappable:1" ; Times: 6
+	Query: "Phallichthys" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Coryphopterus dicrus mappable:1" ; Times: 2
+	Query: "32402" ; Times: 1
+	Query: "Cheilopogon furcatus mappable:1" ; Times: 2
+	Query: "Atherinomorus stipes mappable:1" ; Times: 5
+	Query: "Rasbora trilineata" ; Times: 1
+	Query: "catalognumber:1700" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 6
+	Query: "13463" ; Times: 1
+	Query: "county:&#34;Taylor&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "catalognumber:51040 institutioncode:TNHC" ; Times: 1
+	Query: "Chromis multilineata mappable:1" ; Times: 1
+	Query: "Epinephelus itajara mappable:1" ; Times: 1
+	Query: "Abudefduf taurus mappable:1" ; Times: 1
+	Query: "Dactyloscopus crossotus mappable:1" ; Times: 5
+	Query: "Lutjanus mahogoni mappable:1" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 2
+	Query: "Malacoctenus erdmani mappable:1" ; Times: 1
+	Query: "Stegastes adustus mappable:1" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 3
+	Query: "catalognumber:30040" ; Times: 2
+	Query: "Evorthodus lyricus mappable:1" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "specificepithet:campechanus genus:Lutjanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; (crane)" ; Times: 2
+	Query: "Diapterus rhombeus mappable:1" ; Times: 4
+	Query: "Lophogobius cyprinoides mappable:1" ; Times: 4
+	Query: "32115" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 3
+	Query: "Centropomus ensiferus mappable:1" ; Times: 6
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "oral history" ; Times: 1
+	Query: "Kyphosus sectatrix mappable:1" ; Times: 2
+	Query: "katangae" ; Times: 1
+	Query: "Epinephelus morio mappable:1" ; Times: 1
+	Query: "Paraclinus fasciatus mappable:1" ; Times: 1
+	Query: "Dormitator maculatus mappable:1" ; Times: 2
+	Query: "Malacoctenus gilli mappable:1" ; Times: 1
+	Query: "specificepithet:cavalla genus:Scomberomorus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Apogon maculatus mappable:1" ; Times: 1
+	Query: "Holacanthus ciliaris mappable:1" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "Brachyrhaphis" ; Times: 1
+	Query: "TNHC-32004" ; Times: 1
+	Query: "Jenkinsia lamprotaenia mappable:1" ; Times: 11
+	Query: "30254" ; Times: 1
+	Query: "TNHC-18188" ; Times: 1
+	Query: "Platygillellus rubrocinctus mappable:1" ; Times: 3
+	Query: "Pomacanthus arcuatus mappable:1" ; Times: 1
+	Query: "Epinephelus striatus mappable:1" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 5
+	Query: "hippocampus erectus mexico" ; Times: 1
+	Query: "Microphis brachyurus mappable:1" ; Times: 1
+	Query: "Bodianus rufus mappable:1" ; Times: 2
+	Query: "Halichoeres radiatus mappable:1" ; Times: 2
+	Query: "Stegastes planifrons mappable:1" ; Times: 1
+	Query: "Mugil hospes mappable:1" ; Times: 1
+	Query: "Astrapogon stellatus mappable:1" ; Times: 2
+	Query: "Anchoa cubana mappable:1" ; Times: 9
+	Query: "specificepithet:phenax genus:Mycteroperca stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC-31894" ; Times: 1
+	Query: "specificepithet:maculatus genus:Scomberomorus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Holocentrus rufus mappable:1" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 4
+	Query: "Pristobrycon" ; Times: 1
+	Query: "locality:90 county:&#34;kinney&#34; stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 3
+	Query: "Eugerres plumieri mappable:1" ; Times: 5
+	Query: "Cantherhines pullus mappable:1" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 1227 download events in this period)
+Total number of records downloaded: 439
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 19
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-24 ; Times: 6
+	Date: 2019-02-25 ; Times: 7
+	Date: 2019-02-26 ; Times: 4
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:guttatus genus:Epinephelus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "Priapella" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "specificepithet:campechanus genus:Lutjanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:dumerili genus:Seriola stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:aurorubens genus:Rhomboplites stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:bonaci genus:Mycteroperca stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Phallichthys" ; Times: 1
+	Query: "specificepithet:canadum genus:Rachycentron stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:maculatus genus:Scomberomorus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "specificepithet:flavolimbatus genus:Epinephelus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Brachyrhaphis" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 2
+	Query: "specificepithet:phenax genus:Mycteroperca stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Priapichthys" ; Times: 1
+	Query: "specificepithet:cavalla genus:Scomberomorus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
