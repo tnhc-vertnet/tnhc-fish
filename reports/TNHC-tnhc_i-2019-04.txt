@@ -1,0 +1,256 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 225
+Number of records retrieved in searches: 2121
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Turkey ; Times: 1
+	Country: Canada ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: El Salvador ; Times: 4
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Switzerland ; Times: 7
+	Country: Vietnam ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Belgium ; Times: 2
+	Country: United States ; Times: 123
+	Country: Brazil ; Times: 66
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 53
+	Date: 2019-04-19 ; Times: 52
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 8
+	Date: 2019-04-11 ; Times: 7
+	Date: 2019-04-17 ; Times: 4
+	Date: 2019-04-16 ; Times: 13
+	Date: 2019-04-15 ; Times: 4
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 4
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-02 ; Times: 19
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-22 ; Times: 1
+	Date: 2019-04-05 ; Times: 4
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-26 ; Times: 7
+	Date: 2019-04-27 ; Times: 5
+	Date: 2019-04-24 ; Times: 12
+	Date: 2019-04-25 ; Times: 7
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 5
+	Date: 2019-04-08 ; Times: 4
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "Coralliozetus cardonae" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "catalognumber:53954 institutioncode:TNHC" ; Times: 2
+	Query: "Neoclinus stephensae mappable:1" ; Times: 1
+	Query: "catalognumber:57740 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "Otocinclus affinis" ; Times: 1
+	Query: "catalognumber:57739 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:52948 institutioncode:TNHC" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "catalognumber:51038 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "12171" ; Times: 1
+	Query: "Stathmonotus gymnodermis" ; Times: 1
+	Query: "catalognumber:52947 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:52938 institutioncode:TNHC" ; Times: 3
+	Query: "delhi" ; Times: 2
+	Query: "catalognumber:51098 institutioncode:TNHC" ; Times: 2
+	Query: "Neoclinus blanchardi" ; Times: 1
+	Query: "Astyanax mexicanus 33533" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "catalognumber:52945 institutioncode:TNHC" ; Times: 1
+	Query: "Narcine brasiliensis mappable:1" ; Times: 1
+	Query: "county:&#34;willacy&#34;" ; Times: 1
+	Query: "catalognumber:51161 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:52956 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:51147 institutioncode:TNHC" ; Times: 1
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "Cetengraulis edentulus mappable:1" ; Times: 2
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "catalognumber:57738 institutioncode:TNHC" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "catalognumber:52952 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:55380 institutioncode:TNHC" ; Times: 1
+	Query: "Menticirrhus americanus mappable:1" ; Times: 1
+	Query: "specificepithet:pandora genus:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Elops saurus mappable:1" ; Times: 2
+	Query: "genus:Agonostomus" ; Times: 2
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "catalognumber:51103 institutioncode:TNHC" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "catalognumber:54531 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:52944 institutioncode:TNHC" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 2
+	Query: "Trinectes paulistanus mappable:1" ; Times: 2
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "Astyanax mexicanus 41476" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "catalognumber:51160 institutioncode:TNHC" ; Times: 1
+	Query: "Stathmonotus gymnodermis mappable:1" ; Times: 1
+	Query: "Polydactylus virginicus mappable:1" ; Times: 2
+	Query: "33461" ; Times: 1
+	Query: "county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; institutioncode:TNHC" ; Times: 1
+	Query: "Neoclinus uninotatus mappable:1" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "&#34;welder wildlife foundation&#34;" ; Times: 1
+	Query: "catalognumber:52949 institutioncode:TNHC" ; Times: 1
+	Query: "county:&#34;Kinney&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Bothus ocellatus mappable:1" ; Times: 1
+	Query: "Opisthonema oglinum mappable:1" ; Times: 2
+	Query: "specificepithet:pectinata genus:Pristis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anchoa parva mappable:1" ; Times: 2
+	Query: "catalognumber:52940 institutioncode:TNHC" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 2
+	Query: "46954" ; Times: 1
+	Query: "Astyanax mexicanus 41519" ; Times: 1
+	Query: "Astyanax mexicanus 33523" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "TNHC 31888" ; Times: 1
+	Query: "catalognumber:57741 institutioncode:TNHC" ; Times: 1
+	Query: "Coralliozetus cardonae mappable:1" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "Awaous tajasica mappable:1" ; Times: 2
+	Query: "Bagre bagre mappable:1" ; Times: 1
+	Query: "Neoclinus uninotatus" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "salminus hilarii" ; Times: 1
+	Query: "catalognumber:42302 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:51136 institutioncode:TNHC" ; Times: 2
+	Query: "Clarias gariepinus mappable:1" ; Times: 1
+	Query: "specificepithet:falciformis genus:Carcharhinus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 2
+	Query: "catalognumber:51087 institutioncode:TNHC" ; Times: 1
+	Query: "Hoplosternum littorale mappable:1" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "catalognumber:52950 institutioncode:TNHC" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:50232 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "25148" ; Times: 1
+	Query: "catalognumber:51097 institutioncode:TNHC" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "catalognumber:51101 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "catalognumber:52942 institutioncode:TNHC" ; Times: 1
+	Query: "Stellifer stellifer mappable:1" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "county:&#34;Presidio&#34; stateprovince:&#34;Texas&#34; year &gt;= 1990 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:52946 institutioncode:TNHC" ; Times: 1
+	Query: "Neoclinus blanchardi mappable:1" ; Times: 1
+	Query: "specificepithet:erythrogaster stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "Gymnotus carapo mappable:1" ; Times: 1
+	Query: "catalognumber:9502 institutioncode:TNHC" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 3
+	Query: "Astyanax mexicanus 33540" ; Times: 1
+	Query: "catalognumber:51096 institutioncode:TNHC" ; Times: 2
+	Query: "36394" ; Times: 1
+	Query: "Synbranchus marmoratus mappable:1" ; Times: 1
+	Query: "XXXXXXX mappable:1" ; Times: 3
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 2
+	Query: "vntype:specimen county:&#34;lampasas&#34;" ; Times: 1
+	Query: "30033" ; Times: 2
+	Query: "catalognumber:27446 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:51099 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:54570 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:52941 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:57737 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "Lake Havasu" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 2
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "catalognumber:493 institutioncode:TNHC" ; Times: 1
+	Query: "Astyanax mexicanus 40721" ; Times: 1
+	Query: "catalognumber:52939 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:52943 institutioncode:TNHC" ; Times: 1
+	Query: "Menticirrhus littoralis mappable:1" ; Times: 1
+	Query: "Porichthys porosissimus mappable:1" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "Astyanax mexicanus 24983" ; Times: 1
+	Query: "10313" ; Times: 3
+	Query: "catalognumber:52783 institutioncode:TNHC" ; Times: 2
+	Query: "53583" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "salminus" ; Times: 2
+	Query: "Astyanax mexicanus 33518" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "Astyanax mexicanus 41634" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 2
+	Query: "catalognumber:4902 institutioncode:TNHC" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "Astyanax mexicanus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 2
+	Query: "Neoclinus stephensae" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 2
+	Query: "33026" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1263 download events in this period)
+Total number of records downloaded: 20553
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Turkey ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-10 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-26 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:falciformis genus:Carcharhinus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Sander vitreus" ; Times: 1
+	Query: "Delhi" ; Times: 1
+	Query: "class:Actinopterygii" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "clarias gariepinus" ; Times: 1
+	Query: "specificepithet:pandora genus:Gila stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:obscurus genus:Carcharhinus stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
