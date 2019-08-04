@@ -1,0 +1,186 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 138
+Number of records retrieved in searches: 1566
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 119
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 5
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-09 ; Times: 10
+	Date: 2019-07-18 ; Times: 16
+	Date: 2019-07-19 ; Times: 2
+	Date: 2019-07-08 ; Times: 39
+	Date: 2019-07-12 ; Times: 3
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-30 ; Times: 7
+	Date: 2019-07-17 ; Times: 6
+	Date: 2019-07-14 ; Times: 2
+	Date: 2019-07-15 ; Times: 4
+	Date: 2019-07-29 ; Times: 20
+	Date: 2019-07-23 ; Times: 3
+	Date: 2019-07-22 ; Times: 1
+	Date: 2019-07-02 ; Times: 5
+	Date: 2019-07-26 ; Times: 1
+	Date: 2019-07-25 ; Times: 1
+	Date: 2019-07-24 ; Times: 1
+	Date: 2019-07-16 ; Times: 7
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-28 ; Times: 2
+	Date: 2019-07-05 ; Times: 1
+	Date: 2019-07-04 ; Times: 1
+	Date: 2019-07-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Uaru specificepithet:amphiacanthoides" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Ictiobus specificepithet:bubalus" ; Times: 1
+	Query: "genus:Holocentrus specificepithet:adscensionis" ; Times: 1
+	Query: "genus:Amblyopsis specificepithet:spelaea" ; Times: 1
+	Query: "genus:Elacatinus specificepithet:oceanops" ; Times: 1
+	Query: "catalognumber:26497 institutioncode:TNHC" ; Times: 1
+	Query: "Etheostoma variatum" ; Times: 1
+	Query: "catalognumber:26499 institutioncode:TNHC" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "Island AND Blunt" ; Times: 1
+	Query: "genus:Mikrogeophagus specificepithet:ramirezi" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "scientificname:(Gambusia clarkhubbsi) country:United States mappable:1" ; Times: 1
+	Query: "recordedby:PAYNE" ; Times: 1
+	Query: "peces" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:54036" ; Times: 1
+	Query: "genus:Narcine specificepithet:brasiliensis" ; Times: 1
+	Query: "catalognumber:1408 institutioncode:TNHC" ; Times: 1
+	Query: "(&#34;Turtle Creek&#34;)" ; Times: 3
+	Query: "W 65-52" ; Times: 1
+	Query: "catalognumber:29082 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:8989 institutioncode:TNHC" ; Times: 2
+	Query: "erimyzon claviformis" ; Times: 2
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+	Query: "scientificname:(Fundulus jenkinsi) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:991 institutioncode:TNHC" ; Times: 2
+	Query: "genus:Dionda stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "genus:Opsopoeodus" ; Times: 1
+	Query: "Hoplosternum littorale" ; Times: 1
+	Query: "genus:Chilomycterus specificepithet:schoepfii" ; Times: 1
+	Query: "17380" ; Times: 1
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:26491 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:11983" ; Times: 1
+	Query: "20059" ; Times: 1
+	Query: "catalognumber:26498 institutioncode:TNHC" ; Times: 1
+	Query: "genus:Entomacrodus specificepithet:nigricans" ; Times: 1
+	Query: "recordedby:Payne" ; Times: 1
+	Query: "genus:Ophioblennius specificepithet:atlanticus" ; Times: 1
+	Query: "county:&#34;Coryell&#34;" ; Times: 2
+	Query: "29221" ; Times: 1
+	Query: "recordedby:Payne year &gt;= 1961 year &lt;= 1963" ; Times: 1
+	Query: "genus:Characidium" ; Times: 1
+	Query: "genus:Dionda county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "23148" ; Times: 1
+	Query: "genus:Hydrolagus specificepithet:alberti" ; Times: 1
+	Query: "catalognumber:21950 institutioncode:TNHC" ; Times: 3
+	Query: "TNHC 59161" ; Times: 1
+	Query: "genus:Amia" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:macrops" ; Times: 1
+	Query: "vntype:specimen catalognumber:12296 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:1908 institutioncode:TNHC" ; Times: 1
+	Query: "genus:Colossoma specificepithet:macropomum" ; Times: 1
+	Query: "genus:Dionda county:&#34;Hays&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Microphis" ; Times: 5
+	Query: "59041" ; Times: 1
+	Query: "catalognumber:1014 institutioncode:TNHC" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 2
+	Query: "catalognumber:26503 institutioncode:TNHC" ; Times: 2
+	Query: "Opistognathus" ; Times: 1
+	Query: "genus:Dasyatis specificepithet:americana" ; Times: 1
+	Query: "genus:Paratilapia specificepithet:polleni" ; Times: 1
+	Query: "28317" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "opistognathus" ; Times: 1
+	Query: "genus:Cetengraulis specificepithet:edentulus" ; Times: 1
+	Query: "catalognumber:26496 institutioncode:TNHC" ; Times: 2
+	Query: "coryell" ; Times: 1
+	Query: "locality:Coronados" ; Times: 1
+	Query: "genus:Notemigonus" ; Times: 1
+	Query: "29240" ; Times: 3
+	Query: "12108" ; Times: 1
+	Query: "genus:Cheilopogon specificepithet:melanurus" ; Times: 1
+	Query: "catalognumber:26492 institutioncode:TNHC" ; Times: 1
+	Query: "vntype:specimen genus:oncorhynchus lengthinmm &gt;= 200 lengthinmm &lt;= 10000 haslength:1" ; Times: 1
+	Query: "catalognumber:57419 institutioncode:TNHC" ; Times: 5
+	Query: "Cichla temensis" ; Times: 1
+	Query: "catalognumber:17564 institutioncode:TNHC" ; Times: 1
+	Query: "genus:Lepomis specificepithet:marginatus" ; Times: 1
+	Query: "42-480" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "genus:Anguilla specificepithet:rostrata" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "genus:Eigenmannia specificepithet:virescens" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Harengula specificepithet:clupeola" ; Times: 1
+	Query: "catalognumber:26349 institutioncode:TNHC" ; Times: 1
+	Query: "23937" ; Times: 1
+	Query: "catalognumber:26502 institutioncode:TNHC" ; Times: 1
+	Query: "genus:Anableps specificepithet:anableps" ; Times: 1
+	Query: "Caranx caballus" ; Times: 1
+	Query: "genus:Cottus specificepithet:princeps" ; Times: 1
+	Query: "genus:Leporinus specificepithet:friderici" ; Times: 1
+	Query: "genus:Charax" ; Times: 1
+	Query: "genus:Rhinoptera specificepithet:bonasus" ; Times: 1
+	Query: "Zonata year &gt;= 2000 year &lt;= 2019" ; Times: 2
+	Query: "catalognumber:20490 institutioncode:TNHC" ; Times: 2
+	Query: "institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:15911" ; Times: 2
+	Query: "class:aves institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:4377 institutioncode:TNHC" ; Times: 2
+	Query: "scientificname:(Gila cypha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 985 download events in this period)
+Total number of records downloaded: 1206
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-23 ; Times: 1
+	Date: 2019-07-10 ; Times: 1
+	Date: 2019-07-02 ; Times: 4
+	Date: 2019-07-30 ; Times: 1
+	Date: 2019-07-21 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:Coronados" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "galapagos" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Macrhybopsis" ; Times: 2
+	Query: "Protopterus" ; Times: 3
+	Query: "genus:Macrhybopsis stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
