@@ -1,0 +1,171 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 152
+Number of records retrieved in searches: 1469
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 43
+	Country: United States ; Times: 46
+	Country: Honduras ; Times: 2
+	Country: Mexico ; Times: 5
+	Country: Kuwait ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 42
+	Country: United Kingdom ; Times: 2
+	Country: Unknown ; Times: 6
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 2
+	Date: 2019-09-16 ; Times: 2
+	Date: 2019-09-17 ; Times: 10
+	Date: 2019-09-10 ; Times: 45
+	Date: 2019-09-11 ; Times: 6
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 20
+	Date: 2019-09-30 ; Times: 5
+	Date: 2019-09-08 ; Times: 1
+	Date: 2019-09-03 ; Times: 16
+	Date: 2019-09-02 ; Times: 3
+	Date: 2019-09-07 ; Times: 4
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-05 ; Times: 3
+	Date: 2019-09-04 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-22 ; Times: 10
+	Date: 2019-09-25 ; Times: 4
+	Date: 2019-09-24 ; Times: 7
+	Date: 2019-09-27 ; Times: 2
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-29 ; Times: 1
+	Date: 2019-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "45583" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 1
+	Query: "27957" ; Times: 1
+	Query: "specificepithet:lepidum genus:etheostoma institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:leucas genus:carcharhinus" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 5
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "punctatus specificepithet:punctatus stateprovince:&#34;Texas&#34; year &gt;= 2010 year &lt;= 2019" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 39
+	Query: "catalognumber:14370 institutioncode:TNHC" ; Times: 1
+	Query: "vitreus Sander" ; Times: 2
+	Query: "genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 3
+	Query: "Uraspis secunda mappable:1" ; Times: 1
+	Query: "punctatus specificepithet:punctatus stateprovince:&#34;Texas&#34; year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "Ogcocephalus radiatus mappable:1" ; Times: 1
+	Query: "41149" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "Rypticus saponaceus mappable:1" ; Times: 1
+	Query: "Antennarius multiocellatus mappable:1" ; Times: 1
+	Query: "43180" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "Ocyurus chrysurus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; distance(location,geopoint(35.40058605939291,-101.37433816395258))&lt;34620.46525113693" ; Times: 1
+	Query: "Syngnathus pelagicus mappable:1" ; Times: 1
+	Query: "Malacanthus plumieri mappable:1" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "Aluterus heudeloti mappable:1" ; Times: 1
+	Query: "45335" ; Times: 1
+	Query: "Lions" ; Times: 2
+	Query: "class:Actinopterygii county:&#34;Brewster&#34;" ; Times: 1
+	Query: "10430" ; Times: 1
+	Query: "Hemiramphus brasiliensis mappable:1" ; Times: 1
+	Query: "class:Actinopterygii locality:Limpia Creek stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "16994." ; Times: 1
+	Query: "specificepithet:episcopa genus:Dionda stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "class:Actinopterygii locality:Agua Fria" ; Times: 1
+	Query: "42180" ; Times: 1
+	Query: "Hoplunnis macrura mappable:1" ; Times: 1
+	Query: "Hypsoblennius hentz mappable:1" ; Times: 1
+	Query: "Stegastes variabilis mappable:1" ; Times: 1
+	Query: "specificepithet:septemfasciatum" ; Times: 1
+	Query: "catalognumber:7978 institutioncode:TNHC" ; Times: 1
+	Query: "24204" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "Llano Grande" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "32960" ; Times: 1
+	Query: "atherinella milleri" ; Times: 2
+	Query: "Polydactylus octonemus mappable:1" ; Times: 1
+	Query: "Prionotus longispinosus mappable:1" ; Times: 1
+	Query: "15722" ; Times: 1
+	Query: "32980" ; Times: 1
+	Query: "Upeneus parvus mappable:1" ; Times: 5
+	Query: "Blue Cavern" ; Times: 4
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "burti burti" ; Times: 1
+	Query: "Prionotus paralatus mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "41235" ; Times: 1
+	Query: "specificepithet:eximius genus:Cyprinodon stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Syngnathus springeri mappable:1" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34;" ; Times: 1
+	Query: "Scorpaena dispar mappable:1" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:septemfasciatum country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "catalognumber:57419 institutioncode:TNHC" ; Times: 1
+	Query: "14150" ; Times: 1
+	Query: "Paraclinus marmoratus mappable:1" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "Hippopotamyrus ansorgii" ; Times: 3
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "Pontinus longispinis mappable:1" ; Times: 1
+	Query: "specificepithet:NOTOSPILUS genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "Cichla ocellaris mappable:1" ; Times: 3
+	Query: "21870" ; Times: 1
+	Query: "Lactophrys trigonus mappable:1" ; Times: 1
+	Query: "catalognumber:6911 institutioncode:TNHC" ; Times: 1
+	Query: "52606" ; Times: 1
+	Query: "catalognumber:20459" ; Times: 1
+	Query: "zygaena" ; Times: 1
+	Query: "45812" ; Times: 1
+	Query: "specificepithet:septemfasciatum country:&#34;Panama&#34; OR &#34;Costa Rica&#34;" ; Times: 1
+	Query: "Clupea pallasii pallasii mappable:1" ; Times: 1
+	Query: "genus:Bodianus continent:America" ; Times: 1
+	Query: "specificepithet:ornatum genus:Campostoma stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "open bay" ; Times: 1
+	Query: "37768" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1073 download events in this period)
+Total number of records downloaded: 973
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-18 ; Times: 2
+	Date: 2019-09-19 ; Times: 1
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "chihuahua" ; Times: 2
+	Query: "Blue Cavern" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Chihuahua&#34;" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "specificepithet:NOTOSPILUS genus:HALICHOERES continent:AMERICA" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+
+
+End of report.
