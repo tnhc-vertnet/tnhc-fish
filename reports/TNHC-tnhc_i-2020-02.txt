@@ -1,0 +1,256 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 208
+Number of records retrieved in searches: 1950
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: French Guiana ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 4
+	Country: France ; Times: 47
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Guyana ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Dominican Republic ; Times: 1
+	Country: United States ; Times: 121
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 6
+	Date: 2020-02-02 ; Times: 40
+	Date: 2020-02-03 ; Times: 38
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-01 ; Times: 12
+	Date: 2020-02-20 ; Times: 9
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-04 ; Times: 17
+	Date: 2020-02-23 ; Times: 1
+	Date: 2020-02-08 ; Times: 5
+	Date: 2020-02-09 ; Times: 6
+	Date: 2020-02-28 ; Times: 3
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 11
+	Date: 2020-02-10 ; Times: 6
+	Date: 2020-02-13 ; Times: 6
+	Date: 2020-02-12 ; Times: 4
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-14 ; Times: 3
+	Date: 2020-02-17 ; Times: 4
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 3
+	Date: 2020-02-18 ; Times: 5
+	Date: 2020-02-24 ; Times: 2
+	Date: 2020-02-25 ; Times: 2
+	Date: 2020-02-27 ; Times: 14
+	Date: 2020-02-06 ; Times: 2
+	Date: 2020-02-07 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "2-6775" ; Times: 1
+	Query: "scientificname:(Lepisosteus platostomus) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "catalognumber:19345 institutioncode:TNHC" ; Times: 1
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "36877" ; Times: 1
+	Query: "scientificname:(Notropis shumardi) country:United States mappable:1" ; Times: 2
+	Query: "selva lacandona" ; Times: 2
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "Haemulon carbonarium mappable:1" ; Times: 1
+	Query: "17161" ; Times: 1
+	Query: "Anchoa lamprotaenia mappable:1" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "scientificname:Mullus auratus mappable:1" ; Times: 1
+	Query: "Euthynnus alletteratus mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34; institutioncode:TNHC" ; Times: 1
+	Query: "Haemulon sciurus" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "Odontoscion dentex mappable:1" ; Times: 1
+	Query: "locality: selva lacandona stateprovince:&#34;Chiapas&#34; country:&#34;México&#34;" ; Times: 3
+	Query: "Bairdiella ronchus mappable:1" ; Times: 1
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 1
+	Query: "Larimus breviceps mappable:1" ; Times: 1
+	Query: "scientificname:(Gambusia clarkhubbsi) country:United States mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "41652" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "class:Actinopterygii locality:Cuatro ciénegas stateprovince:&#34;Coahuila&#34;" ; Times: 2
+	Query: "scientificname:(Gila coerulea) country:United States mappable:1" ; Times: 1
+	Query: "LaDuc" ; Times: 1
+	Query: "skeleton felis" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "Catostomus insignis" ; Times: 2
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "La Nana Creek" ; Times: 1
+	Query: "scientificname:(Etheostoma exile) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:19348 institutioncode:TNHC" ; Times: 1
+	Query: "51609" ; Times: 1
+	Query: "Achirus achirus" ; Times: 2
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "20991" ; Times: 1
+	Query: "TAIC" ; Times: 1
+	Query: "class:actinopterygii stateprovince:&#34;Chiapas&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "clarkii Catostomus" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Nuevo Leon&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma pallididorsum) country:United States mappable:1" ; Times: 1
+	Query: "Protopterus aethiopicus" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "Pomadasys crocro mappable:1" ; Times: 1
+	Query: "scientificname:(Ictiobus cyprinellus) country:United States mappable:1" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 1
+	Query: "catalognumber:19349 institutioncode:TNHC" ; Times: 1
+	Query: "Cichlasoma diquis" ; Times: 4
+	Query: "scientificname:(Ictiobus bubalus) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Fundulus seminolis) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Erpetoichthys calabaricus" ; Times: 3
+	Query: "Anisotremus virginicus mappable:1" ; Times: 1
+	Query: "catalognumber:19344 institutioncode:TNHC" ; Times: 1
+	Query: "hiodon alosoides" ; Times: 1
+	Query: "scientificname:(Notropis dorsalis) country:United States mappable:1" ; Times: 1
+	Query: "hippocampus zosterae" ; Times: 2
+	Query: "Equetus lanceolatus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "genus:lepisosteus institutioncode:TNHC" ; Times: 1
+	Query: "seahorse" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "pascua" ; Times: 1
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 1
+	Query: "scientificname:(Fundulus jenkinsi) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:Upeneus parvus mappable:1" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "Upeneus parvus mappable:1" ; Times: 2
+	Query: "Haemulon flavolineatum mappable:1" ; Times: 1
+	Query: "Haemulon plumieri mappable:1" ; Times: 1
+	Query: "27725" ; Times: 1
+	Query: "scientificname:(Hiodon alosoides) country:United States mappable:1" ; Times: 1
+	Query: "Anisotremus surinamensis mappable:1" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "17132" ; Times: 2
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "hippocampus zosterae stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Anchoa lyolepis mappable:1" ; Times: 1
+	Query: "pantostictus" ; Times: 1
+	Query: "Haemulon macrostomum mappable:1" ; Times: 1
+	Query: "Eucinostomus jonesii mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis ozarcanus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:interruptus genus:Archoplites stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "12020" ; Times: 1
+	Query: "Mullus auratus mappable:1" ; Times: 2
+	Query: "catalognumber:19343 institutioncode:TNHC" ; Times: 1
+	Query: "Eucinostomus gula mappable:1" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "hippocampus zosterae institutioncode:TNHC" ; Times: 1
+	Query: "scientificname:(Noturus nocturnus) country:United States mappable:1" ; Times: 3
+	Query: "scientificname:Mulloidichthys martinicus mappable:1" ; Times: 1
+	Query: "Morone chrysops" ; Times: 1
+	Query: "Archoplites interruptus" ; Times: 1
+	Query: "Ducks" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 1
+	Query: "scientificname:(Apeltes quadracus) country:United States mappable:1" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "Aetobatus narinari mappable:1" ; Times: 1
+	Query: "aetobatus narinari" ; Times: 1
+	Query: "saba" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 1
+	Query: "TNHC 22234" ; Times: 2
+	Query: "juliae" ; Times: 1
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "15700" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "catalognumber:1392" ; Times: 1
+	Query: "scientificname:(Platygobio gracilis) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "catalognumber:19346 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:1625" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "hippocampus regulus stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Anchoa hepsetus mappable:1" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Hyphessobrycon savagei" ; Times: 2
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "scientificname:(Notropis heterolepis) country:United States mappable:1" ; Times: 1
+	Query: "Barbus anoplus" ; Times: 1
+	Query: "molidae" ; Times: 1
+	Query: "Awaous Transandeanus" ; Times: 1
+	Query: "25928" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "scientificname:(Lucania goodei) country:United States mappable:1" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "Ceiba" ; Times: 2
+	Query: "Gephyrocharax" ; Times: 3
+	Query: "Microdesmus" ; Times: 1
+	Query: "scientificname:(Lepisosteus platyrhincus) country:United States mappable:1" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "15-1013-9" ; Times: 2
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Colima&#34; country:&#34;Mexico&#34; institutioncode:TNHC" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "Ulaema lefroyi mappable:1" ; Times: 1
+	Query: "17179" ; Times: 1
+	Query: "Eucinostomus harengulus mappable:1" ; Times: 1
+	Query: "fieldnumber:00082" ; Times: 1
+	Query: "7239" ; Times: 1
+	Query: "54329" ; Times: 2
+	Query: "16240" ; Times: 1
+	Query: "Hippocampus zosterae stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anchoa cubana mappable:1" ; Times: 1
+	Query: "scientificname:(Gila cypha) country:United States mappable:1" ; Times: 1
+	Query: "Haemulon sciurus mappable:1" ; Times: 1
+	Query: "catalognumber:4916" ; Times: 1
+	Query: "scientificname:(Percina macrolepida) country:United States mappable:1" ; Times: 1
+	Query: "Hypostomus cochliodon" ; Times: 1
+	Query: "Achirus" ; Times: 1
+	Query: "Conodon nobilis mappable:1" ; Times: 1
+	Query: "15969" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 1
+	Query: "catalognumber:19347 institutioncode:TNHC" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 1023 download events in this period)
+Total number of records downloaded: 6075
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii locality:Cuatro ciénegas stateprovince:&#34;Coahuila&#34;" ; Times: 1
+	Query: "country:&#34;Mexico&#34;" ; Times: 1
+	Query: "louisiana" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+
+
+End of report.
