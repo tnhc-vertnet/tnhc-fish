@@ -1,0 +1,202 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 144
+Number of records retrieved in searches: 1144
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 113
+	Country: Australia ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: Finland ; Times: 1
+	Country: United Kingdom ; Times: 5
+	Country: Sweden ; Times: 1
+	Country: Slovakia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Venezuela ; Times: 5
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-31 ; Times: 19
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-18 ; Times: 8
+	Date: 2020-03-19 ; Times: 4
+	Date: 2020-03-16 ; Times: 5
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-12 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-10 ; Times: 6
+	Date: 2020-03-11 ; Times: 2
+	Date: 2020-03-17 ; Times: 5
+	Date: 2020-03-26 ; Times: 4
+	Date: 2020-03-25 ; Times: 8
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 18
+	Date: 2020-03-22 ; Times: 1
+	Date: 2020-03-21 ; Times: 1
+	Date: 2020-03-20 ; Times: 6
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-04 ; Times: 16
+	Date: 2020-03-06 ; Times: 3
+	Date: 2020-03-03 ; Times: 12
+	Date: 2020-03-28 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "tnhc 48665" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "scardinius erythrophthalmus" ; Times: 2
+	Query: "47738" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "chilodontidae" ; Times: 1
+	Query: "(11044)" ; Times: 1
+	Query: "14984" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "24967" ; Times: 1
+	Query: "Centropomus parallelus" ; Times: 1
+	Query: "chitala ornata" ; Times: 2
+	Query: "30505" ; Times: 1
+	Query: "Trichopsetta ventralis" ; Times: 1
+	Query: "lamb county texas" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "30908" ; Times: 2
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "julimes" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "Macrhybopsis tetranema" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "county:&#34;schleicher&#34;" ; Times: 1
+	Query: "R.57365" ; Times: 1
+	Query: "specificepithet:parallelus genus:Centropomus institutioncode:TNHC" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "county:&#34;schleicher&#34; institutioncode:TNHC" ; Times: 1
+	Query: "(46173)" ; Times: 1
+	Query: "(nine times)" ; Times: 1
+	Query: "county:&#34;Bowie&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "16544" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "genus:cyprinodon rubrofluviatilis stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "Scarus coeruleus mappable:1" ; Times: 2
+	Query: "marmoreus" ; Times: 1
+	Query: "Sparisoma radians mappable:1" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "Sparisoma aurofrenatum mappable:1" ; Times: 2
+	Query: "55258" ; Times: 1
+	Query: "&#34;Escobas&#34;" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "&#34;San Vincent&#34;" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "specificepithet:grunniens genus:Aplodinotus institutioncode:TNHC" ; Times: 1
+	Query: "TNHC 59271" ; Times: 2
+	Query: "county:&#34;irion&#34;" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "cyprinodon julimes" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Gambusia yucatana" ; Times: 1
+	Query: "(55759)" ; Times: 1
+	Query: "Hypoatherina harringtonensis mappable:1" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "22544" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "24123" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "B-10458" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Sparisoma chrysopterum mappable:1" ; Times: 1
+	Query: "(15209)" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "(14976)" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 1
+	Query: "31896" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "(49093)" ; Times: 2
+	Query: "Macrhybopsis marconis" ; Times: 1
+	Query: "52022" ; Times: 1
+	Query: "37094" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "Macrhybopsis australis" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "county:&#34;Live Oak&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "Sparisoma rubripinne mappable:1" ; Times: 1
+	Query: "32113" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Astronotus" ; Times: 1
+	Query: "&#34;Candelaria&#34;" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "12212" ; Times: 1
+	Query: "tnhc 50874" ; Times: 1
+	Query: "(53280)" ; Times: 1
+	Query: "30740" ; Times: 1
+	Query: "Sparisoma viride mappable:1" ; Times: 1
+	Query: "(49096)" ; Times: 2
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "57155" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 1
+	Query: "24177" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "genus:cyprinodon stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "county:&#34;crockett&#34;" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "harengula humeralis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 853 download events in this period)
+Total number of records downloaded: 14
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Cuba ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia punctata" ; Times: 1
+	Query: "chilodontidae" ; Times: 1
+	Query: "chilodus" ; Times: 1
+	Query: "Gambusia yucatana" ; Times: 1
+
+
+End of report.
