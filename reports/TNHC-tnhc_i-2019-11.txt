@@ -1,0 +1,176 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 137
+Number of records retrieved in searches: 752
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Singapore ; Times: 10
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: United States ; Times: 109
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 4
+	Date: 2019-11-30 ; Times: 1
+	Date: 2019-11-15 ; Times: 18
+	Date: 2019-11-14 ; Times: 13
+	Date: 2019-11-16 ; Times: 4
+	Date: 2019-11-11 ; Times: 2
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-08 ; Times: 5
+	Date: 2019-11-28 ; Times: 3
+	Date: 2019-11-20 ; Times: 14
+	Date: 2019-11-21 ; Times: 5
+	Date: 2019-11-22 ; Times: 16
+	Date: 2019-11-24 ; Times: 2
+	Date: 2019-11-25 ; Times: 2
+	Date: 2019-11-26 ; Times: 7
+	Date: 2019-11-27 ; Times: 4
+	Date: 2019-11-06 ; Times: 13
+	Date: 2019-11-07 ; Times: 4
+	Date: 2019-11-04 ; Times: 5
+	Date: 2019-11-05 ; Times: 4
+	Date: 2019-11-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "54056" ; Times: 1
+	Query: "catostomus insignis" ; Times: 4
+	Query: "catalognumber:48881 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "catalognumber:47836 year &gt;= 1990 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 2
+	Query: "Aluterus scriptus" ; Times: 3
+	Query: "catalognumber:59558 institutioncode:TNHC" ; Times: 1
+	Query: "18819" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "cooper center" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "molasses" ; Times: 1
+	Query: "specificepithet:gracilis genus:Poeciliopsis" ; Times: 1
+	Query: "Catostomus insignis" ; Times: 2
+	Query: "61-278" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "Poeciliopsis gracilis" ; Times: 1
+	Query: "Power AND Guadalupe" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "45295" ; Times: 1
+	Query: "carbonaria" ; Times: 1
+	Query: "20757" ; Times: 1
+	Query: "Cyprinus carpio vntype:specimen hastissue:1" ; Times: 2
+	Query: "53626" ; Times: 1
+	Query: "catalognumber:59805 institutioncode:TNHC" ; Times: 3
+	Query: "56937" ; Times: 2
+	Query: "55422" ; Times: 1
+	Query: "Sparisoma chrysopterum" ; Times: 2
+	Query: "54548" ; Times: 1
+	Query: "catalognumber:48881 year &gt;= 1994 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "aluterus scriptus" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; AND (NOT CUMV NOT NCSM NOT AUM)" ; Times: 1
+	Query: "catalognumber:58940 institutioncode:TNHC" ; Times: 2
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "sternopygus macrurus" ; Times: 2
+	Query: "catalognumber:942" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; AND (NOT CUMV NOT NCSM)" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 2
+	Query: "18906" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "20532" ; Times: 1
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "60015" ; Times: 1
+	Query: "Barbus unitaeniatus" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "43136" ; Times: 1
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "henke" ; Times: 1
+	Query: "35676" ; Times: 1
+	Query: "10565" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "McLeod" ; Times: 2
+	Query: "county:&#34;williamson&#34;" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "texas a&amp;m" ; Times: 1
+	Query: "catalognumber:35676" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "scomber japonicus" ; Times: 2
+	Query: "Oncorhynchus mykiss vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "ictaluridae hastissue:1" ; Times: 1
+	Query: "catalognumber:58939 institutioncode:TNHC" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 10
+	Query: "53470" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "54466" ; Times: 1
+	Query: "TNHC 53891" ; Times: 2
+	Query: "54464" ; Times: 1
+	Query: "19720" ; Times: 2
+	Query: "18905" ; Times: 3
+	Query: "class:Actinopterygii stateprovince:&#34;South Carolina&#34; country:&#34;United States&#34; AND (NOT CUMV NOT NCSM NOT AUM NOT KU)" ; Times: 1
+	Query: "Can is lupus" ; Times: 2
+	Query: "54583" ; Times: 1
+	Query: "54582" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 1
+	Query: "Barbus poechii" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1367 download events in this period)
+Total number of records downloaded: 442
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Africa" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
