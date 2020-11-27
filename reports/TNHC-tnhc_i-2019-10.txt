@@ -1,0 +1,198 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 1740
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 90
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 7
+	Country: Mexico ; Times: 4
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 8
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: New Zealand ; Times: 75
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 6
+	Date: 2019-10-22 ; Times: 4
+	Date: 2019-10-21 ; Times: 11
+	Date: 2019-10-20 ; Times: 5
+	Date: 2019-10-27 ; Times: 9
+	Date: 2019-10-25 ; Times: 1
+	Date: 2019-10-24 ; Times: 44
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-03 ; Times: 9
+	Date: 2019-10-02 ; Times: 7
+	Date: 2019-10-05 ; Times: 2
+	Date: 2019-10-04 ; Times: 2
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-23 ; Times: 43
+	Date: 2019-10-29 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-16 ; Times: 11
+	Date: 2019-10-11 ; Times: 7
+	Date: 2019-10-30 ; Times: 12
+	Date: 2019-10-31 ; Times: 2
+	Date: 2019-10-14 ; Times: 10
+	Date: 2019-10-15 ; Times: 3
+	Date: 2019-10-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Raja texana" ; Times: 2
+	Query: "Mustelus norrisi" ; Times: 2
+	Query: "54212" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+	Query: "Chanos chanos vntype:specimen" ; Times: 1
+	Query: "vitreus Sander" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Sphyrna" ; Times: 1
+	Query: "class:Actinopterygii county:&#34;Jeff Davis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Cruriraja rugosa" ; Times: 1
+	Query: "Carcharhinus acronotus" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "16467" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "year &gt;= 1964 institutioncode:TNHC" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "52702" ; Times: 1
+	Query: "19786" ; Times: 1
+	Query: "möhn" ; Times: 1
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "50567" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "jellyfish" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "tnhc 41084" ; Times: 2
+	Query: "15983" ; Times: 1
+	Query: "temensis Cichla" ; Times: 2
+	Query: "Mustelus canis" ; Times: 2
+	Query: "32887" ; Times: 1
+	Query: "Eugerres mexicanus" ; Times: 3
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "Aluterus heudelotii mappable:1" ; Times: 3
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "Leucoraja erinacea" ; Times: 2
+	Query: "chanos chanos" ; Times: 1
+	Query: "species presence data" ; Times: 1
+	Query: "ogcocephalus" ; Times: 2
+	Query: "fundulus grandis" ; Times: 2
+	Query: "class:Actinopterygii locality:Terlingua Creek stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "Narcine bancroftii" ; Times: 2
+	Query: "40047" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 3
+	Query: "Isistius brasiliensis" ; Times: 1
+	Query: "R-21808" ; Times: 2
+	Query: "Pristis pectinata" ; Times: 2
+	Query: "Sphyrna zygaena" ; Times: 3
+	Query: "tissue already have" ; Times: 1
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "37120" ; Times: 1
+	Query: "Cantherhines pullus" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "porichthys" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 2
+	Query: "notropis blennius" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Aluterus heudelotii" ; Times: 1
+	Query: "Dalatias licha" ; Times: 2
+	Query: "Carcharhinus isodon" ; Times: 2
+	Query: "Oreochromis sp" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "Squalus cubensis" ; Times: 2
+	Query: "18509" ; Times: 1
+	Query: "11893" ; Times: 3
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "chanos chanos vntype:specimen" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 2
+	Query: "44016" ; Times: 1
+	Query: "mylossoma" ; Times: 2
+	Query: "M 1607" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "17684" ; Times: 1
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "Pteroplatytrygon violacea" ; Times: 2
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Etmopterus virens" ; Times: 1
+	Query: "Texas A&amp;M" ; Times: 2
+	Query: "menidia audens" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "14/Pha/14/a/5" ; Times: 1
+	Query: "Amblyraja radiata" ; Times: 2
+	Query: "33502" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "52049" ; Times: 1
+	Query: "specificepithet:spatula genus:Atractosteus" ; Times: 2
+	Query: "12619" ; Times: 2
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "asper Cottus" ; Times: 2
+	Query: "hhh" ; Times: 1
+	Query: "Carcharhinus porosus" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Hydrolagus alberti" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Sphyrna tiburo" ; Times: 3
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 2
+	Query: "Leucoraja garmani" ; Times: 2
+	Query: "12953" ; Times: 1
+	Query: "Aluterus schoepfii mappable:1" ; Times: 4
+	Query: "Plagioscion squamosissimus" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 2
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Etmopterus schultzi" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Dipturus laevis" ; Times: 2
+	Query: "Scyliorhinus retifer" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 2
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Cantherhines pullus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 1308 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+
+
+End of report.
