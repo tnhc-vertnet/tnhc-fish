@@ -1,0 +1,324 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1219
+Number of records retrieved in searches: 43983
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 14
+	Country: United States ; Times: 71
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Singapore ; Times: 2
+	Country: El Salvador ; Times: 1
+	Country: Panama ; Times: 1
+	Country: Mexico ; Times: 30
+	Country: United Kingdom ; Times: 1093
+	Country: Ecuador ; Times: 1
+	Country: Ireland ; Times: 2
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 248
+	Date: 2020-04-04 ; Times: 1
+	Date: 2020-04-22 ; Times: 2
+	Date: 2020-04-05 ; Times: 1
+	Date: 2020-04-06 ; Times: 14
+	Date: 2020-04-07 ; Times: 400
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-01 ; Times: 12
+	Date: 2020-04-02 ; Times: 4
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 312
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-03 ; Times: 120
+	Date: 2020-04-19 ; Times: 1
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-13 ; Times: 36
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-11 ; Times: 11
+	Date: 2020-04-10 ; Times: 4
+	Date: 2020-04-15 ; Times: 12
+	Date: 2020-04-14 ; Times: 31
+	Date: 2020-04-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "recordedby:Guerra institutioncode:TNHC" ; Times: 1
+	Query: "Gambusia holbrooki" ; Times: 5
+	Query: "Hoplias malabaricus" ; Times: 11
+	Query: "Eleotris picta" ; Times: 5
+	Query: "23208" ; Times: 1
+	Query: "LAR stateprovince:&#34;TEXAS&#34;" ; Times: 4
+	Query: "Hyphessobrycon herbertaxelrodi" ; Times: 8
+	Query: "scientificname:(Luxilus cardinalis OR Notropis cardinalis) country:United States mappable:1" ; Times: 1
+	Query: "Esox lucius" ; Times: 10
+	Query: "Cottus carolinae" ; Times: 10
+	Query: "Ameiurus natalis" ; Times: 9
+	Query: "38543" ; Times: 1
+	Query: "Corynopoma riisei" ; Times: 4
+	Query: "Brevoortia tyrannus" ; Times: 4
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "Callichthys callichthys" ; Times: 2
+	Query: "Cynoscion regalis" ; Times: 3
+	Query: "Fundulus grandis" ; Times: 4
+	Query: "Serranochromis" ; Times: 3
+	Query: "Creagrutus beni" ; Times: 4
+	Query: "scientificname:(Etheostoma radiosum) country:United States mappable:1" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Sargochromis" ; Times: 5
+	Query: "Sciaenops ocellatus" ; Times: 6
+	Query: "phylum:chordata country:mozambique" ; Times: 1
+	Query: "Poecilia formosa" ; Times: 6
+	Query: "Clarias gariepinus" ; Times: 29
+	Query: "Synbranchus marmoratus" ; Times: 11
+	Query: "scientificname:(Notropis asperifrons) country:United States mappable:1" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 9
+	Query: "Pimelodus pictus" ; Times: 10
+	Query: "Alburnus alburnus" ; Times: 19
+	Query: "23472" ; Times: 1
+	Query: "Gila ditaenia" ; Times: 2
+	Query: "27883" ; Times: 1
+	Query: "Sternopygus macrurus" ; Times: 9
+	Query: "Gymnotus carapo" ; Times: 8
+	Query: "phylum:chordata country:Mozambique" ; Times: 1
+	Query: "Farlowella vittata" ; Times: 4
+	Query: "Poecilia reticulata" ; Times: 9
+	Query: "Lepomis gulosus" ; Times: 6
+	Query: "Bryconamericus deuterodonoides" ; Times: 6
+	Query: "Pimelodus blochii" ; Times: 6
+	Query: "Pangasius pangasius" ; Times: 9
+	Query: "scientificname:(Fundulus lineolatus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ariopsis felis OR Arius felis OR Galeichthys felis) country:United States mappable:1" ; Times: 2
+	Query: "Coregonus sardinella" ; Times: 5
+	Query: "Oreochromis aureus" ; Times: 22
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Oreochromis macrochir" ; Times: 22
+	Query: "Scardinius erythrophthalmus" ; Times: 19
+	Query: "Awaous banana" ; Times: 4
+	Query: "Gobio gobio" ; Times: 7
+	Query: "scientificname:(Etheostoma asprigene) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Ctenogobius shufeldti OR Gobionellus shufeldti) country:United States mappable:1" ; Times: 1
+	Query: "San Jacinto Texas" ; Times: 1
+	Query: "Cetopsis coecutiens" ; Times: 8
+	Query: "Serrasalmus irritans" ; Times: 6
+	Query: "scientificname:(Notropis greenei) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma collettei) country:United States mappable:1" ; Times: 1
+	Query: "Cynoscion nebulosus" ; Times: 3
+	Query: "scientificname:(Notropis xaenocephalus) country:United States mappable:1" ; Times: 1
+	Query: "Eigenmannia virescens" ; Times: 6
+	Query: "Engraulis eurystole" ; Times: 4
+	Query: "Trachurus lathami" ; Times: 5
+	Query: "Lepomis megalotis" ; Times: 6
+	Query: "26823" ; Times: 3
+	Query: "TNHC 59447" ; Times: 2
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "Uaru amphiacanthoides" ; Times: 5
+	Query: "22916" ; Times: 1
+	Query: "Acanthodoras spinosissimus" ; Times: 8
+	Query: "scientificname:(Ctenogobius boleosoma OR Gobionellus boleosoma) country:United States mappable:1" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 6
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "Astyanax fasciatus" ; Times: 2
+	Query: "scientificname:(Fundulus sciadicus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Macrhybopsis hyostoma) country:United States mappable:1" ; Times: 1
+	Query: "Lepomis miniatus" ; Times: 6
+	Query: "Astronotus ocellatus" ; Times: 3
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Ictalurus pricei" ; Times: 13
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "Pogonias cromis" ; Times: 5
+	Query: "Lepomis auritus" ; Times: 5
+	Query: "Crenicichla lepidota" ; Times: 8
+	Query: "Astyanax mexicanus" ; Times: 5
+	Query: "Uraspis secunda" ; Times: 5
+	Query: "scientificname:(Dormitator maculatus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis bairdi) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "scientificname:(Esox americanus vermiculatus) country:United States mappable:1" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 5
+	Query: "Ameiurus melas" ; Times: 10
+	Query: "Chrosomus erythrogaster" ; Times: 7
+	Query: "Oreochromis mossambicus" ; Times: 22
+	Query: "Hypostomus plecostomus" ; Times: 6
+	Query: "Opisthonema oglinum" ; Times: 4
+	Query: "18103" ; Times: 2
+	Query: "Labeo altivelis" ; Times: 4
+	Query: "scientificname:(Notropis anogenus) country:United States mappable:1" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 8
+	Query: "Arius arius" ; Times: 8
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Clarias theodorae" ; Times: 4
+	Query: "Gila pandora" ; Times: 7
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Cottus cognatus" ; Times: 7
+	Query: "Chitala ornata" ; Times: 9
+	Query: "Trachelyopterus galeatus" ; Times: 6
+	Query: "Notemigonus crysoleucas" ; Times: 10
+	Query: "Mozambique" ; Times: 2
+	Query: "Zungaro zungaro" ; Times: 6
+	Query: "Paratilapia polleni" ; Times: 3
+	Query: "Salmo trutta" ; Times: 7
+	Query: "Gila nigrescens" ; Times: 7
+	Query: "scientificname:(Notropis potteri) country:United States mappable:1" ; Times: 1
+	Query: "Oreochromis" ; Times: 14
+	Query: "Herotilapia multispinosa" ; Times: 1
+	Query: "12876" ; Times: 1
+	Query: "40612" ; Times: 1
+	Query: "scientificname:(Notropis scepticus) country:United States mappable:1" ; Times: 1
+	Query: "Pseudocrenilabrus" ; Times: 5
+	Query: "Bryconamericus scleroparius" ; Times: 5
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Hemigrammus marginatus" ; Times: 3
+	Query: "Pterophyllum scalare" ; Times: 3
+	Query: "Lepomis punctatus" ; Times: 6
+	Query: "scientificname:(Jordanella floridae) country:United States mappable:1" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 5
+	Query: "country:&#34;Mexico&#34; recordedby:Guerra institutioncode:TNHC" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 4
+	Query: "Cottus bairdii" ; Times: 5
+	Query: "Larimus fasciatus" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 5
+	Query: "Pterygoplichthys disjunctivus" ; Times: 6
+	Query: "Megalodoras uranoscopus" ; Times: 6
+	Query: "Leiostomus xanthurus" ; Times: 6
+	Query: "scientificname:(Cyprinodon rubrofluviatilis) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma kennicotti) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 8
+	Query: "Ameiurus catus" ; Times: 12
+	Query: "Cyprinus carpio" ; Times: 16
+	Query: "Pimelodus ornatus" ; Times: 3
+	Query: "Dorosoma cepedianum" ; Times: 4
+	Query: "Serranochromis robustus" ; Times: 22
+	Query: "Ichthyomyzon gagei" ; Times: 2
+	Query: "(18647)" ; Times: 2
+	Query: "Electrophorus electricus" ; Times: 8
+	Query: "Phoxinus phoxinus" ; Times: 13
+	Query: "26821" ; Times: 2
+	Query: "Noturus taylori" ; Times: 13
+	Query: "locality:Cuatro Cienegas stateprovince:&#34;Coahuila&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Axis axis" ; Times: 2
+	Query: "Piaractus brachypomus" ; Times: 9
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 14
+	Query: "36314" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 7
+	Query: "scientificname:(Ammocrypta clara) country:United States mappable:1" ; Times: 1
+	Query: "Pseudopleuronectes americanus" ; Times: 5
+	Query: "Hemisorubim platyrhynchos" ; Times: 9
+	Query: "colossoma macropomum" ; Times: 1
+	Query: "Pterygoplichthys anisitsi" ; Times: 6
+	Query: "Apteronotus albifrons" ; Times: 8
+	Query: "Anguilla rostrata" ; Times: 11
+	Query: "Serrasalmus eigenmanni" ; Times: 6
+	Query: "scientificname:(Notropis atrocaudalis) country:United States mappable:1" ; Times: 1
+	Query: "Esox niger" ; Times: 3
+	Query: "Trachurus trachurus" ; Times: 5
+	Query: "scientificname:(Microgobius gulosus) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Etheostoma squamiceps) country:United States mappable:1" ; Times: 1
+	Query: "Cynoscion arenarius" ; Times: 3
+	Query: "Kryptopterus bicirrhis" ; Times: 7
+	Query: "scientificname:(Hybopsis hypsinotus OR Notropis hypsinotus) country:United States mappable:1" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 14
+	Query: "Symphysodon aequifasciata" ; Times: 2
+	Query: "catalognumber:45782" ; Times: 1
+	Query: "Hepsetus odoe" ; Times: 4
+	Query: "56798" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Nannacara anomala" ; Times: 3
+	Query: "Platydoras armatulus" ; Times: 6
+	Query: "34276" ; Times: 1
+	Query: "catalognumber:26300" ; Times: 1
+	Query: "41044" ; Times: 2
+	Query: "scientificname:(Heterandria formosa) country:United States mappable:1" ; Times: 2
+	Query: "Lamontichthys llanero" ; Times: 3
+	Query: "40579" ; Times: 2
+	Query: "40578" ; Times: 2
+	Query: "Ictalurus punctatus" ; Times: 11
+	Query: "Cheilopogon heterurus" ; Times: 5
+	Query: "Ameiurus brunneus" ; Times: 9
+	Query: "15034" ; Times: 1
+	Query: "Sorubim lima" ; Times: 5
+	Query: "Astyanax bimaculatus" ; Times: 6
+	Query: "(49095)" ; Times: 1
+	Query: "scientificname:(Etheostoma inscriptum) country:United States mappable:1" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "13890" ; Times: 2
+	Query: "scientificname:(Erimyzon claviformis OR Erimyzon oblongus claviformis) country:United States mappable:1" ; Times: 1
+	Query: "stegastes acapulcoensis" ; Times: 1
+	Query: "Hypomesus olidus" ; Times: 5
+	Query: "&#34;george west&#34;" ; Times: 1
+	Query: "NOTROPIS ORTENBURGERI" ; Times: 1
+	Query: "Farlowella mariaelenae" ; Times: 4
+	Query: "scientificname:(Macrhybopsis australis) country:United States mappable:1" ; Times: 1
+	Query: "Agamyxis pectinifrons" ; Times: 5
+	Query: "scientificname:(Notropis ortenburgeri) country:United States mappable:1" ; Times: 1
+	Query: "Couesius plumbeus" ; Times: 2
+	Query: "lutjanus inermis" ; Times: 1
+	Query: "Oreochromis andersonii" ; Times: 22
+	Query: "Apeltes quadracus" ; Times: 7
+	Query: "Petenia splendida" ; Times: 2
+	Query: "Gila robusta" ; Times: 2
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "26816" ; Times: 3
+	Query: "Xiphophorus variatus" ; Times: 9
+	Query: "turtle length" ; Times: 1
+	Query: "Hemichromis" ; Times: 1
+	Query: "Cichla ocellaris" ; Times: 3
+	Query: "scientificname:(Percina palmaris OR Hadropterus palmaris) country:United States mappable:1" ; Times: 1
+	Query: "Perca flavescens" ; Times: 3
+	Query: "Carassius carassius" ; Times: 12
+	Query: "Anchoa hepsetus" ; Times: 4
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "Uraspis uraspis" ; Times: 5
+	Query: "Mastacembelus mastacembelus" ; Times: 4
+	Query: "Aequidens metae" ; Times: 8
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "(18642)" ; Times: 2
+	Query: "Gila cypha" ; Times: 2
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Agamyxis albomaculatus" ; Times: 8
+	Query: "Aplodinotus grunniens" ; Times: 6
+	Query: "scientificname:(Fundulus dispar) country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1171 download events in this period)
+Total number of records downloaded: 1377
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: Lithuania ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-18 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-14 ; Times: 2
+	Date: 2020-04-26 ; Times: 1
+	Date: 2020-04-28 ; Times: 1
+	Date: 2020-04-08 ; Times: 2
+	Date: 2020-04-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "squatina squatina" ; Times: 1
+	Query: "Characidium" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "Alosa alabamae" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Guerra institutioncode:TNHC" ; Times: 1
+	Query: "turtle length" ; Times: 1
+	Query: "sciurus" ; Times: 1
+	Query: "Lepomis gulosus" ; Times: 1
+
+
+End of report.
