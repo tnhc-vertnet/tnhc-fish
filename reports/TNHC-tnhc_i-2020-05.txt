@@ -1,0 +1,164 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 1743
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 1
+	Country: Iran ; Times: 8
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 77
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 9
+	Country: Belgium ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-27 ; Times: 2
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-22 ; Times: 7
+	Date: 2020-05-29 ; Times: 3
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 6
+	Date: 2020-05-10 ; Times: 13
+	Date: 2020-05-11 ; Times: 5
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 10
+	Date: 2020-05-16 ; Times: 1
+	Date: 2020-05-17 ; Times: 14
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-07 ; Times: 7
+	Date: 2020-05-06 ; Times: 14
+	Date: 2020-05-04 ; Times: 5
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "36580" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "Presque Isle" ; Times: 1
+	Query: "catalognumber:59447 institutioncode:TNHC" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "Muraena lentiginosa" ; Times: 1
+	Query: "point presence species" ; Times: 5
+	Query: "scientificname:(Adinia xenica OR Adinia multifasciata) country:United States mappable:1" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "gonioplectrus hispanus" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "county:&#34;Blanco&#34; year &gt;= 2006 year &lt;= 2012 institutioncode:TNHC" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 2
+	Query: "44752" ; Times: 2
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "county:&#34;Blanco&#34; stateprovince:&#34;Texas&#34; year &gt;= 2007 year &lt;= 2009" ; Times: 1
+	Query: "county:&#34;Lee&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "Aramberri" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "Cynoscion arenarius" ; Times: 2
+	Query: "Coyote stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "&#34;bufo marinus&#34; texas" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; institutioncode:TNHC" ; Times: 1
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 2
+	Query: "Canthidermis maculata mappable:1" ; Times: 1
+	Query: "Hemichromis guttatus" ; Times: 1
+	Query: "haemulon plumieri" ; Times: 4
+	Query: "guavina guavina" ; Times: 1
+	Query: "county:&#34;Blanco&#34; year &gt;= 2007 year &lt;= 2009 institutioncode:TNHC" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "NUM" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "Species presence species" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "58664" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; year &gt;= 2007 year &lt;= 2009 institutioncode:TNHC" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "Cyprinodon variegatus in Texas" ; Times: 2
+	Query: "mugil liza" ; Times: 1
+	Query: "51803" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "USNM Texas" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "county:&#34;Menard&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "poeciliopsis occidentalis" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "marinus texas" ; Times: 1
+	Query: "county:&#34;Angelina&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "TNHC 53891" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Presence data" ; Times: 2
+	Query: "mugil rubrioculus" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "scientificname:(Etheostoma euzonum) country:United States mappable:1" ; Times: 1
+	Query: "Coyote stateprovince:&#34;Texas&#34; year &gt;= 1950 year &lt;= 2020" ; Times: 1
+	Query: "DUMERILI" ; Times: 1
+	Query: "30246" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1106 download events in this period)
+Total number of records downloaded: 292
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-08 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Aramberri" ; Times: 1
+	Query: "egg texas" ; Times: 1
+	Query: "Birds Texas" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "Cyprinodon variegatus in Texas" ; Times: 2
+	Query: "Catostomus" ; Times: 1
+
+
+End of report.
