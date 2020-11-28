@@ -1,0 +1,202 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 135
+Number of records retrieved in searches: 1033
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 42
+	Country: Australia ; Times: 2
+	Country: Ireland ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Venezuela ; Times: 7
+	Country: India ; Times: 2
+	Country: France ; Times: 60
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 4
+	Date: 2020-09-08 ; Times: 2
+	Date: 2020-09-03 ; Times: 2
+	Date: 2020-09-02 ; Times: 2
+	Date: 2020-09-01 ; Times: 2
+	Date: 2020-09-07 ; Times: 4
+	Date: 2020-09-06 ; Times: 3
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 7
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-20 ; Times: 1
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-25 ; Times: 4
+	Date: 2020-09-24 ; Times: 1
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-30 ; Times: 3
+	Date: 2020-09-14 ; Times: 7
+	Date: 2020-09-15 ; Times: 5
+	Date: 2020-09-16 ; Times: 17
+	Date: 2020-09-17 ; Times: 16
+	Date: 2020-09-10 ; Times: 8
+	Date: 2020-09-11 ; Times: 8
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 3
+	Date: 2020-09-18 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "32708" ; Times: 3
+	Query: "TNHC 8656" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "Seriola dumerili" ; Times: 1
+	Query: "Hymenocephalus italicus" ; Times: 1
+	Query: "horseshoe c" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Chilomycterus schoepfii" ; Times: 2
+	Query: "Aldama" ; Times: 1
+	Query: "Seriola fasciata" ; Times: 1
+	Query: "camargo" ; Times: 2
+	Query: "Cheilopogon furcatus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; country:&#34;united states&#34; (Canis )" ; Times: 1
+	Query: "catalognumber:58801 institutioncode:TNHC" ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Myxine glutinosa" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "Megalops atlanticus country:&#34;United States&#34;" ; Times: 2
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 5
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Gambusia puncticulata" ; Times: 1
+	Query: "Mustelus mustelus" ; Times: 1
+	Query: "16952" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "Sphyrna zygaena" ; Times: 1
+	Query: "Gephyroberyx darwinii" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "Sphoeroides marmoratus" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Nezumia aequalis" ; Times: 1
+	Query: "Coryphaena hippurus" ; Times: 1
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "16649" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Carcharhinus falciformis" ; Times: 1
+	Query: "TNHC 5344" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "coyote stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Gymnura altavela" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Carassius auratus" ; Times: 3
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "Eleotris picta" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Pteroplatytrygon violacea" ; Times: 1
+	Query: "Fundulus parvipinnis" ; Times: 2
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Remora brachyptera" ; Times: 1
+	Query: "38572" ; Times: 1
+	Query: "allende" ; Times: 2
+	Query: "Remora osteochir" ; Times: 1
+	Query: "50030" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Etheostoma pottsi" ; Times: 1
+	Query: "catalognumber:58801 year &gt;= 1997 institutioncode:TNHC" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "Sudis hyalina" ; Times: 1
+	Query: "Stegastes adustus" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "Diaphus rafinesquii" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "ictalurus furcatus" ; Times: 3
+	Query: "Alosa chrysochloris" ; Times: 1
+	Query: "Exocoetus obtusirostris" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "Rineloricaria caracasensis" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 1
+	Query: "recordedby:Matthews" ; Times: 2
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "spartina" ; Times: 1
+	Query: "stateprovince:&#34;mississippi&#34; institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "catalognumber:58819 year &gt;= 1997 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:53889 year &gt;= 1997 institutioncode:TNHC" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 976 download events in this period)
+Total number of records downloaded: 5777
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Panama ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-01 ; Times: 3
+	Date: 2020-09-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "E. R. Pianka" ; Times: 1
+	Query: "Gambusia puncticulata" ; Times: 1
+	Query: "Rineloricaria caracasensis" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+	Query: "country:&#34;México&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 3
+
+
+End of report.
