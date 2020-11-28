@@ -1,0 +1,218 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 364
+Number of records retrieved in searches: 12529
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 4
+	Country: Honduras ; Times: 40
+	Country: Peru ; Times: 7
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: Venezuela ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 18
+	Country: Germany ; Times: 1
+	Country: Ireland ; Times: 6
+	Country: Japan ; Times: 5
+	Country: United States ; Times: 253
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-06 ; Times: 6
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-17 ; Times: 2
+	Date: 2020-08-16 ; Times: 1
+	Date: 2020-08-15 ; Times: 1
+	Date: 2020-08-14 ; Times: 3
+	Date: 2020-08-12 ; Times: 9
+	Date: 2020-08-11 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-19 ; Times: 120
+	Date: 2020-08-18 ; Times: 13
+	Date: 2020-08-01 ; Times: 4
+	Date: 2020-08-04 ; Times: 2
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-28 ; Times: 12
+	Date: 2020-08-07 ; Times: 3
+	Date: 2020-08-26 ; Times: 25
+	Date: 2020-08-27 ; Times: 24
+	Date: 2020-08-24 ; Times: 11
+	Date: 2020-08-25 ; Times: 5
+	Date: 2020-08-22 ; Times: 6
+	Date: 2020-08-23 ; Times: 2
+	Date: 2020-08-20 ; Times: 82
+	Date: 2020-08-21 ; Times: 27
+
+List of queries that retrieved data from the resource: 
+	Query: "12830" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "Oreochromis macrochir" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus" ; Times: 1
+	Query: "locality:honeymoon beach" ; Times: 1
+	Query: "Ablennes hians" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 1
+	Query: "Elacatinus oceanops" ; Times: 1
+	Query: "31594" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis" ; Times: 181
+	Query: "vntype:specimen specificepithet:elongatus genus:Cycleptus hastissue:1" ; Times: 2
+	Query: "Cottus princeps stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:congestum genus:Moxostoma" ; Times: 1
+	Query: "microphis lineatus" ; Times: 1
+	Query: "Alectis ciliaris" ; Times: 2
+	Query: "Hyporhamphus unifasciatus" ; Times: 2
+	Query: "Fundulus zebrinus (texas)" ; Times: 1
+	Query: "Sternopygus macrurus" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Achirus mazatlanus" ; Times: 2
+	Query: "Lutjanus analis" ; Times: 1
+	Query: "Acyrtus rubiginosus" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Awaous banana" ; Times: 1
+	Query: "Cyprinodon dearborni" ; Times: 1
+	Query: "Entomacrodus nigricans" ; Times: 1
+	Query: "specificepithet:colliei genus:Hydrolagus stateprovince:&#34;washington&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:congestum genus:Moxostoma hastissue:1" ; Times: 1
+	Query: "13097" ; Times: 1
+	Query: "diazi" ; Times: 1
+	Query: "Hypleurochilus aequipinnis" ; Times: 2
+	Query: "Rhamdia guatemalensis" ; Times: 2
+	Query: "35359" ; Times: 1
+	Query: "Cyprinodon rubrofluviatilis" ; Times: 4
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "traits" ; Times: 1
+	Query: "Chanos chanos" ; Times: 1
+	Query: "Cyprinella venusta vntype:specimen hastissue:1" ; Times: 1
+	Query: "Ophioblennius steindachneri" ; Times: 1
+	Query: "Microphis lineatus" ; Times: 1
+	Query: "Micralestes acutidens" ; Times: 1
+	Query: "catalognumber:2295 institutioncode:TNHC" ; Times: 1
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "chanos chanos" ; Times: 1
+	Query: "32207" ; Times: 1
+	Query: "44744" ; Times: 1
+	Query: "20858" ; Times: 1
+	Query: "Moxostoma anisurum" ; Times: 4
+	Query: "Fundulus zebrinus (Pecos)" ; Times: 1
+	Query: "44804" ; Times: 1
+	Query: "fundulus grandis" ; Times: 1
+	Query: "Rio Beni" ; Times: 2
+	Query: "Hyphessobrycon tortuguerae" ; Times: 2
+	Query: "meeki" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 5
+	Query: "29224" ; Times: 2
+	Query: "Fundulus zebrinus (Red River)" ; Times: 3
+	Query: "catalognumber:14370 institutioncode:TNHC" ; Times: 1
+	Query: "19285" ; Times: 1
+	Query: "Sealy" ; Times: 4
+	Query: "Caranx bartholomaei" ; Times: 1
+	Query: "M. auratus" ; Times: 1
+	Query: "Notemigonus crysoleucas" ; Times: 1
+	Query: "institutioncode:TNHC" ; Times: 2
+	Query: "11295" ; Times: 1
+	Query: "catalognumber:58879" ; Times: 1
+	Query: "56164" ; Times: 2
+	Query: "bufo marinus texas" ; Times: 1
+	Query: "25785" ; Times: 1
+	Query: "Electrophorus electricus" ; Times: 6
+	Query: "33873" ; Times: 1
+	Query: "Fundulus zebrinus (Brazos)" ; Times: 1
+	Query: "Corydoras aeneus" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Sarda sarda" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "28881" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Fundulus zebrinus (pecos) AND (texas)" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "45388" ; Times: 1
+	Query: "Fundulus parvipinnis" ; Times: 5
+	Query: "133759" ; Times: 2
+	Query: "Strongylura notata" ; Times: 1
+	Query: "Fundulus zebrinus (Brazos )" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "catalognumber:30627" ; Times: 1
+	Query: "Syngnathus pelagicus" ; Times: 1
+	Query: "TNHC 14370" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis (texas)" ; Times: 3
+	Query: "Noturus taylori" ; Times: 1
+	Query: "Syngnathus scovelli" ; Times: 1
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "Trachinotus goodei" ; Times: 2
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Canthidermis maculata" ; Times: 1
+	Query: "diapterus peruvianus" ; Times: 7
+	Query: "Fundulus zebrinus (REd )" ; Times: 1
+	Query: "45154" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Hybopsis aestivalis" ; Times: 1
+	Query: "10276 vntype:specimen" ; Times: 1
+	Query: "Microphis brachyurus lineatus" ; Times: 1
+	Query: "institutioncode:tnhc" ; Times: 1
+	Query: "Centropomus ensiferus" ; Times: 1
+	Query: "specificepithet:congestum genus:Moxostoma hastissue:1" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "32206" ; Times: 1
+	Query: "Alosa chrysochloris" ; Times: 1
+	Query: "52769" ; Times: 1
+	Query: "41574" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Aetobatus narinari" ; Times: 1
+	Query: "Pseudophallus starksi" ; Times: 1
+	Query: "14370" ; Times: 2
+	Query: "Coralliozetus cardonae" ; Times: 2
+	Query: "Alfaro cultratus" ; Times: 1
+	Query: "Moxostoma congestum" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "R 52046" ; Times: 1
+	Query: "47505" ; Times: 1
+	Query: "Oreochromis andersonii" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 756 download events in this period)
+Total number of records downloaded: 43607
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-29 ; Times: 1
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Pristis pectinata" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+	Query: "cyprinodon rubrofluviatilis" ; Times: 1
+	Query: "county:&#34;Clallam&#34;" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "pristis pristis" ; Times: 1
+
+
+End of report.
