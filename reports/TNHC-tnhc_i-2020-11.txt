@@ -1,0 +1,257 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for November 2020, generated on 2020/12/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 4026
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 90
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 33
+	Country: United Kingdom ; Times: 114
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 4
+	Country: Brazil ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-22 ; Times: 3
+	Date: 2020-11-23 ; Times: 7
+	Date: 2020-11-24 ; Times: 13
+	Date: 2020-11-25 ; Times: 10
+	Date: 2020-11-26 ; Times: 23
+	Date: 2020-11-09 ; Times: 2
+	Date: 2020-11-06 ; Times: 5
+	Date: 2020-11-07 ; Times: 1
+	Date: 2020-11-04 ; Times: 12
+	Date: 2020-11-05 ; Times: 7
+	Date: 2020-11-02 ; Times: 99
+	Date: 2020-11-03 ; Times: 1
+	Date: 2020-11-01 ; Times: 1
+	Date: 2020-11-08 ; Times: 2
+	Date: 2020-11-27 ; Times: 3
+	Date: 2020-11-29 ; Times: 1
+	Date: 2020-11-19 ; Times: 1
+	Date: 2020-11-18 ; Times: 4
+	Date: 2020-11-30 ; Times: 31
+	Date: 2020-11-15 ; Times: 4
+	Date: 2020-11-14 ; Times: 11
+	Date: 2020-11-17 ; Times: 8
+	Date: 2020-11-16 ; Times: 3
+	Date: 2020-11-11 ; Times: 2
+	Date: 2020-11-10 ; Times: 6
+	Date: 2020-11-13 ; Times: 1
+	Date: 2020-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "30186" ; Times: 1
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 2
+	Query: "catalognumber:17030 institutioncode:TNHC" ; Times: 1
+	Query: "Salmo trutta" ; Times: 2
+	Query: "Lutjanus guttatus" ; Times: 1
+	Query: "Cheilopogon heterurus" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Ameiurus natalis" ; Times: 1
+	Query: "specificepithet:parvipinnis genus:Fundulus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 2
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 2
+	Query: "noturus nocturnus" ; Times: 2
+	Query: "Lepomis punctatus" ; Times: 1
+	Query: "Sicydium salvini" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 4
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "Selene setapinnis" ; Times: 1
+	Query: "Parexocoetus brachypterus" ; Times: 2
+	Query: "Pomatomus saltatrix" ; Times: 3
+	Query: "Alburnus alburnus" ; Times: 3
+	Query: "Thymallus thymallus" ; Times: 1
+	Query: "catalognumber:7844 institutioncode:TNHC" ; Times: 2
+	Query: "Alectis ciliaris" ; Times: 1
+	Query: "scientificname:(Adinia xenica OR Adinia multifasciata) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 2
+	Query: "Uraspis uraspis" ; Times: 1
+	Query: "Selar crumenophthalmus" ; Times: 6
+	Query: "Poecilia reticulata" ; Times: 3
+	Query: "macrognathus aculeatus" ; Times: 1
+	Query: "Oreochromis macrochir" ; Times: 1
+	Query: "scientificname:Alosa alosa" ; Times: 20
+	Query: "specificepithet:elegans genus:Gibbonsia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "13603" ; Times: 1
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "catalognumber:51695" ; Times: 2
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 4
+	Query: "Awaous banana" ; Times: 4
+	Query: "Gobio gobio" ; Times: 4
+	Query: "14187" ; Times: 1
+	Query: "scientificname:Gymnura altavela" ; Times: 1
+	Query: "catalognumber:543 institutioncode:TNHC" ; Times: 1
+	Query: "catalognumber:10741 institutioncode:TNHC" ; Times: 1
+	Query: "elacatinus" ; Times: 1
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 2
+	Query: "Trachurus lathami" ; Times: 1
+	Query: "tylosurus crocodilus" ; Times: 1
+	Query: "catalognumber:10997 institutioncode:TNHC" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "13425" ; Times: 1
+	Query: "Salmo Trutta" ; Times: 1
+	Query: "20507" ; Times: 1
+	Query: "genus:Exerpes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "GEOPHAGUS SURINAMENSIS" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 1
+	Query: "Aetobatus narinari" ; Times: 3
+	Query: "Micralestes acutidens" ; Times: 2
+	Query: "Lepomis miniatus" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "catalognumber:10505 institutioncode:TNHC" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 2
+	Query: "Lepomis auritus" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 2
+	Query: "22086" ; Times: 1
+	Query: "locality:Angel Island country:&#34;mexico&#34;" ; Times: 1
+	Query: "51046" ; Times: 1
+	Query: "18186" ; Times: 1
+	Query: "47889" ; Times: 1
+	Query: "Ameiurus melas" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "belonesox" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 2
+	Query: "Xiphister atropurpureus" ; Times: 1
+	Query: "Betta splendens" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "Clarias theodorae" ; Times: 2
+	Query: "scientificname:Vulpes vulpes" ; Times: 1
+	Query: "20227" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "Cottus cognatus" ; Times: 1
+	Query: "Chitala ornata" ; Times: 1
+	Query: "genus:Malacoctenus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Diodon hystrix" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 2
+	Query: "specificepithet:integripinnis genus:Paraclinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lota lota" ; Times: 2
+	Query: "23496" ; Times: 2
+	Query: "46277" ; Times: 1
+	Query: "catalognumber:9745 institutioncode:TNHC" ; Times: 2
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Colima&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Caranx latus" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 3
+	Query: "Oxyporhamphus micropterus" ; Times: 1
+	Query: "Hirundichthys rondeletii" ; Times: 1
+	Query: "Dalatias licha" ; Times: 1
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 3
+	Query: "genus:strongylura stateprovince:&#34;veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "50647" ; Times: 1
+	Query: "Oncorhynchus mykiss" ; Times: 1
+	Query: "camera" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "specificepithet:stephensae genus:Neoclinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "32554" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 2
+	Query: "Nannacara anomala" ; Times: 1
+	Query: "Peristedion miniatum" ; Times: 1
+	Query: "Trachinotus carolinus" ; Times: 1
+	Query: "53616" ; Times: 1
+	Query: "genus:Cryptotrema stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Serranus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Carassius auratus" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Jalisco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "prairie dog" ; Times: 2
+	Query: "recordedby:House" ; Times: 1
+	Query: "catalognumber:10524 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:5627" ; Times: 1
+	Query: "35575" ; Times: 1
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "catalognumber:9774 institutioncode:TNHC" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "catalognumber:30947 institutioncode:TNHC" ; Times: 2
+	Query: "specificepithet:walkeri genus:Paraclinus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:montereyensis genus:Gibbonsia stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "locality:Angel Island" ; Times: 1
+	Query: "46899" ; Times: 1
+	Query: "Tylosurus crocodilus" ; Times: 3
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Elops saurus" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "14872" ; Times: 1
+	Query: "37865" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "catalognumber:5141 institutioncode:TNHC" ; Times: 2
+	Query: "Elagatis bipinnulata" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "genus:Labrisomus stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "catalognumber:9744 institutioncode:TNHC" ; Times: 2
+	Query: "Rachycentron canadum" ; Times: 2
+	Query: "catalognumber:56576 institutioncode:TNHC" ; Times: 1
+	Query: "Microphis brachyurus" ; Times: 1
+	Query: "Couesius plumbeus" ; Times: 1
+	Query: "Barbus barbus" ; Times: 3
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "catalognumber:10277 institutioncode:TNHC" ; Times: 2
+	Query: "catalognumber:31138 institutioncode:TNHC" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 1
+	Query: "Carassius carassius" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "catalognumber:56576" ; Times: 1
+	Query: "Echeneis naucrates" ; Times: 2
+	Query: "Chlorophthalmus agassizi" ; Times: 1
+	Query: "12415" ; Times: 2
+	Query: "60-312" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 2
+	Query: "catalognumber:10480 institutioncode:TNHC" ; Times: 3
+	Query: "scientificname:(Etheostoma euzonum) country:United States mappable:1" ; Times: 1
+	Query: "Oreochromis andersonii" ; Times: 1
+	Query: "genus:Ameiurus stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "catalognumber:29187 institutioncode:TNHC" ; Times: 2
+	Query: "Lutjanus griseus" ; Times: 1
+	Query: "51561" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 842 download events in this period)
+Total number of records downloaded: 81
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Venezuela ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-11-22 ; Times: 2
+	Date: 2020-11-25 ; Times: 1
+	Date: 2020-11-30 ; Times: 1
+	Date: 2020-11-17 ; Times: 4
+	Date: 2020-11-02 ; Times: 2
+	Date: 2020-11-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "Nannacara anomala" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 2
+	Query: "auratus genus:Carassius year &gt;= 1960" ; Times: 1
+	Query: "GEOPHAGUS SURINAMENSIS" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Colima&#34;" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "tabasco" ; Times: 1
+	Query: "vulpes vulpes" ; Times: 1
+
+
+End of report.
