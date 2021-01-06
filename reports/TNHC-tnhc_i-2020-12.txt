@@ -1,0 +1,275 @@
+Report for Institution Code TNHC, Resource tnhc_i
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 289
+Number of records retrieved in searches: 4882
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 90
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 5
+	Country: France ; Times: 110
+	Country: United Kingdom ; Times: 60
+	Country: Colombia ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: Belgium ; Times: 2
+	Country: Bolivia ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 17
+	Date: 2020-12-31 ; Times: 1
+	Date: 2020-12-09 ; Times: 15
+	Date: 2020-12-08 ; Times: 42
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-06 ; Times: 3
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 21
+	Date: 2020-12-03 ; Times: 25
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-01 ; Times: 60
+	Date: 2020-12-24 ; Times: 3
+	Date: 2020-12-20 ; Times: 16
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 2
+	Date: 2020-12-18 ; Times: 3
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-10 ; Times: 5
+	Date: 2020-12-11 ; Times: 4
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 29
+	Date: 2020-12-15 ; Times: 3
+	Date: 2020-12-16 ; Times: 4
+	Date: 2020-12-17 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "18646" ; Times: 1
+	Query: "41264" ; Times: 1
+	Query: "Ameiurus natalis" ; Times: 1
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 29
+	Query: "scientificname:Sudis hyalina" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "scientificname:Pomatomus saltatrix" ; Times: 1
+	Query: "Oreochromis macrochir" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "scientificname:Kyphosus sectatrix" ; Times: 1
+	Query: "fundulus grandis texas" ; Times: 5
+	Query: "scientificname:Hippocampus hippocampus" ; Times: 8
+	Query: "Cynoscion regalis" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "scientificname:Euthynnus alletteratus" ; Times: 2
+	Query: "26573" ; Times: 1
+	Query: "Sciaenops ocellatus" ; Times: 1
+	Query: "Poecilia formosa" ; Times: 1
+	Query: "Clarias gariepinus" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "scientificname:Pristis pectinata" ; Times: 1
+	Query: "scientificname:Torpedo nobiliana" ; Times: 2
+	Query: "country:&#34;us virgin islands&#34;" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "Lagodon rhomboides" ; Times: 1
+	Query: "scientificname:Torpedo torpedo" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "scientificname:Myxine glutinosa" ; Times: 1
+	Query: "Cetengraulis edentulus" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "scientificname:Heptranchias perlo" ; Times: 2
+	Query: "orectolobiformes" ; Times: 2
+	Query: "17519" ; Times: 1
+	Query: "scientificname:Echeneis naucrates" ; Times: 2
+	Query: "Oreochromis aureus" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "Esox masquinongy" ; Times: 1
+	Query: "scientificname:Sphyrna zygaena" ; Times: 1
+	Query: "scientificname:Diaphus rafinesquii" ; Times: 1
+	Query: "Gobio gobio" ; Times: 1
+	Query: "scientificname:Hymenocephalus italicus" ; Times: 2
+	Query: "serves" ; Times: 1
+	Query: "scientificname:Gymnura altavela" ; Times: 1
+	Query: "scientificname:Pagrus pagrus" ; Times: 2
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "oreochromis aureus" ; Times: 1
+	Query: "Engraulis eurystole" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "scientificname:Dactylopterus volitans" ; Times: 1
+	Query: "catalognumber:29190 institutioncode:TNHC" ; Times: 2
+	Query: "scientificname:Chlorophthalmus agassizi" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "Uaru amphiacanthoides" ; Times: 1
+	Query: "catalognumber:4889 institutioncode:TNHC" ; Times: 2
+	Query: "25113" ; Times: 1
+	Query: "30561" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 6
+	Query: "catalognumber:3301 institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:17030 institutioncode:TNHC" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "Ictalurus pricei" ; Times: 1
+	Query: "christopher austin" ; Times: 1
+	Query: "Epinephelus drummondhayi" ; Times: 1
+	Query: "scientificname:Boops boops" ; Times: 4
+	Query: "Axis axis" ; Times: 1
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 4
+	Query: "Ameiurus melas" ; Times: 1
+	Query: "scientificname:Remora brachyptera" ; Times: 1
+	Query: "Astyanax mexicanus" ; Times: 1
+	Query: "specificepithet:punctatus stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "scientificname:Cheilopogon furcatus" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "scientificname:Squatina squatina" ; Times: 1
+	Query: "scientificname:Carcharhinus obscurus" ; Times: 1
+	Query: "Chrosomus erythrogaster" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "scientificname:Sphoeroides marmoratus" ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "24209" ; Times: 1
+	Query: "scientificname:Dalatias licha" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "scientificname:Elagatis bipinnulata" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "scientificname:Cheilopogon heterurus" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "gbifdatasetid:6080b6cc-1c24-41ff-ad7f-0ebe7b56f311" ; Times: 1
+	Query: "Cynoscion arenarius" ; Times: 1
+	Query: "catalognumber:24957 institutioncode:TNHC" ; Times: 2
+	Query: "Tarrant County" ; Times: 5
+	Query: "scientificname:Limanda limanda" ; Times: 1
+	Query: "gluesenkamp" ; Times: 1
+	Query: "locality:Fort Worth stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "Pseudupeneus maculatus" ; Times: 1
+	Query: "scientificname:Belone belone" ; Times: 1
+	Query: "scientificname:Sphoeroides spengleri" ; Times: 1
+	Query: "catalognumber:54116 institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "Labeo altivelis" ; Times: 1
+	Query: "41740" ; Times: 1
+	Query: "21726" ; Times: 1
+	Query: "Xiphophorus variatus" ; Times: 1
+	Query: "Larimus fasciatus" ; Times: 1
+	Query: "scientificname:Arapaima gigas" ; Times: 1
+	Query: "scientificname:Diodon hystrix" ; Times: 1
+	Query: "scientificname:Exocoetus obtusirostris" ; Times: 1
+	Query: "41856" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Ameiurus catus" ; Times: 1
+	Query: "Dorosoma cepedianum" ; Times: 1
+	Query: "scientificname:Sphyrna lewini" ; Times: 1
+	Query: "Anchoa mitchilli" ; Times: 1
+	Query: "catalognumber:49888 institutioncode:TNHC" ; Times: 2
+	Query: "scientificname:Sphyrna mokarran" ; Times: 1
+	Query: "scientificname:Pteroplatytrygon violacea" ; Times: 1
+	Query: "scientificname:Dentex dentex" ; Times: 2
+	Query: "17310" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "scientificname:Sardinella aurita" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "specificepithet:naucrates genus:Echeneis" ; Times: 1
+	Query: "arapaima" ; Times: 1
+	Query: "55866" ; Times: 1
+	Query: "25857" ; Times: 1
+	Query: "scientificname:Seriola dumerili" ; Times: 1
+	Query: "pteroplatytrygon" ; Times: 1
+	Query: "11258" ; Times: 1
+	Query: "Ameiurus brunneus" ; Times: 2
+	Query: "Mycteroperca bonaci" ; Times: 1
+	Query: "Kryptopterus bicirrhis" ; Times: 2
+	Query: "35966" ; Times: 1
+	Query: "scientificname:Pristis pristis" ; Times: 1
+	Query: "Ctenogobius shufeldti" ; Times: 1
+	Query: "arlington texas" ; Times: 2
+	Query: "Hemisorubim platyrhynchos" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "39031" ; Times: 1
+	Query: "catalognumber:3301 institutioncode:TNHC" ; Times: 1
+	Query: "scientificname:Carcharhinus falciformis" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 1
+	Query: "(21726)" ; Times: 1
+	Query: "Platydoras armatulus" ; Times: 1
+	Query: "Noturus taylori" ; Times: 1
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "scientificname:Rhinobatos rhinobatos" ; Times: 1
+	Query: "scientificname:Caranx hippos" ; Times: 2
+	Query: "Ictalurus punctatus" ; Times: 1
+	Query: "scientificname:Seriola fasciata" ; Times: 1
+	Query: "scientificname:Coryphaena hippurus" ; Times: 1
+	Query: "scientificname:Rachycentron canadum" ; Times: 1
+	Query: "roy creek" ; Times: 1
+	Query: "scientificname:Mustelus mustelus" ; Times: 4
+	Query: "scientificname:Chaunax pictus" ; Times: 1
+	Query: "scientificname:Lobotes surinamensis" ; Times: 1
+	Query: "scientificname:Scartella cristata" ; Times: 2
+	Query: "scientificname:Macroramphosus scolopax" ; Times: 2
+	Query: "Anchoa hepsetus" ; Times: 1
+	Query: "catalognumber:51333 institutioncode:TNHC" ; Times: 2
+	Query: "scientificname:Trichiurus lepturus" ; Times: 2
+	Query: "Catoprion mento" ; Times: 1
+	Query: "30727" ; Times: 1
+	Query: "catalognumber:29192 institutioncode:TNHC" ; Times: 2
+	Query: "Gambusia axtla" ; Times: 1
+	Query: "scientificname:Nezumia aequalis" ; Times: 1
+	Query: "catalognumber:42744 institutioncode:TNHC" ; Times: 2
+	Query: "Symphysodon aequifasciata" ; Times: 1
+	Query: "scientificname:Balistes capriscus" ; Times: 4
+	Query: "12880" ; Times: 1
+	Query: "22063" ; Times: 1
+	Query: "scientificname:Chromis chromis" ; Times: 1
+	Query: "stephanolepis indian" ; Times: 1
+	Query: "catalognumber:33001 institutioncode:TNHC basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Anchoa lyolepis" ; Times: 1
+	Query: "Serranochromis robustus" ; Times: 2
+	Query: "scientificname:Remora remora" ; Times: 2
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 6
+	Query: "Carassius carassius" ; Times: 2
+	Query: "scientificname:Sarda sarda" ; Times: 1
+	Query: "scientificname:Seriola rivoliana" ; Times: 1
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "Chaunax pictus" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Oreochromis andersonii" ; Times: 2
+	Query: "scientificname:Caranx crysos" ; Times: 1
+	Query: "scientificname:Etrumeus teres" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 705 download events in this period)
+Total number of records downloaded: 177
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Macrhybopsis stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius haslength:1" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+
+
+End of report.
